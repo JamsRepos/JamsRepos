@@ -8,6 +8,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -44,7 +46,3 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers
-
-          # Output
-          committer_gist: 9406ce19802caa496b7795048e6fe1bd
-          output_action: gist
