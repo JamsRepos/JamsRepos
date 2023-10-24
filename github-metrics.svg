@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2194" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2127" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            242 issue comments
+                            244 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.55m added, 3.11m removed
+                                    3.64m added, 3.10m removed
                                 </div>
                             </section>
                             <section>
@@ -473,6 +473,56 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#258 [Web] Search Bar Enhancement</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by JamsRepos in <span class="repo">ente-io/auth</span></div>
+                                    <div class="comment">
+                                        <i>can anyone describe this issue please ? what exactly need to be done ? @vishnukvmd</i>
+                                        Essentially on desktop, where you can type to search for a certain application, having the ability to clear the field so you can type your next application.
+Often you have CTRL + A then delete to clear the field, whereas it would be better if you could just click the inside the box on the right to clear and select the field. 
+Similar to how we have the eye icon on the password field, this would be an "X" to clear the data and select the field.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#24 Some content failing to scrobble</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by JamsRepos in <span class="repo">jellyfin/jellyfin-plugin-simkl</span></div>
+                                    <div class="comment">
+                                        <i>could you uncheck some of those items on simkl, then get this error with Blue Bird and then try to scrobble good item you have unchecked? try to understand if this error has any impact on next scrobbles.</i>
+                                        It seems Bird Box had already been scrobbled on my profile before. However, after removing the initial watch state and dropping it off my Watchlist, it has now scrobbled. 
+However, Loki S2E3 still does not scrobble. Could this be due to the new functionality that was added to log multiple scrobbles of watched content?
+                                        <code class="language-multiline" xml:space="preserve">[2023-10-24 09:30:59.696 +01:00] [INF] [51] Jellyfin.Plugin.Simkl.Services.PlaybackScrobbler: Trying to scrobble "1893" (f8637ceb-54d0-a591-01bd-a5908a5b2630) for "Jam" (26332453-a071-4748-af30-35301c8702d9) - "/mnt/unionfs/tv/1080/Loki (2021)/Season 02/Loki (2021) - S02E03 - TBA [DSNP WEBDL-1080p][EAC3 Atmos 5.1][h264]-FLUX.mkv" on "30b15cfe60706d57356c195f29bdec6b"
+[2023-10-24 09:30:59.697 +01:00] [INF] [51] Jellyfin.Plugin.Simkl.API.SimklApi: Syncing History
+<span class="token trimmed">(2 more lines were trimmed)</span></code>
+                                        Here's my profile, if you wish to see my watch states etc. https://simkl.com/5680253/
+It seems this is the case too with Power, a show i've been watching these last few weeks. It seems Season 1 has scrobbled successfully however Season 2 and 3 which I have progress in have not scrobbled at all.
+https://simkl.com/tv/46084/power
+It seems only the first Season of a show scrobbles properly, then any other season does not.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#24 Some content failing to scrobble</span>
                                     </div>
                                 </div>
@@ -522,41 +572,6 @@ And as I can see it's the same error as this #20 , this plugin tries to detect t
                                         <code class="language-multiline" xml:space="preserve">[2023-10-24 00:23:30.298 +01:00] [INF] [54] Jellyfin.Plugin.Simkl.API.SimklApi: Posting: SimklFile { File: "/mnt/unionfs/tv/1080/Loki (2021)/Season 02/Loki (2021) - S02E03 - TBA [DSNP WEBDL-1080p][EAC3 Atmos 5.1][h264]-FLUX.mkv", Part: null, Hash: null }
 [2023-10-24 00:23:30.514 +01:00] [ERR] [54] Jellyfin.Server.Middleware.ExceptionMiddleware: Error processing request. URL "GET" "/Items/970c1b325d58ff4b4548d0618faf7a17/playbackinfo".
 <span class="token trimmed">(38 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">shemanaev/jellyfin-plugin-media-cleaner</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#24 Some content failing to scrobble</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by JamsRepos in <span class="repo">jellyfin/jellyfin-plugin-simkl</span></div>
-                                    <div class="comment">
-                                        @ekleop
-                                        <code class="language-multiline" xml:space="preserve">[2023-10-23 23:46:15.835 +01:00] [INF] [26] Jellyfin.Plugin.Simkl.Services.PlaybackScrobbler: Trying to scrobble "Bird Box" (7e318795-f7ed-4ce0-42f0-c5bcbe48699e) for "Jam" (26332453-a071-4748-af30-35301c8702d9) - "/mnt/unionfs/movies/1080/Bird Box (2018)/Bird Box (2018) {imdb-tt2737304} [WEBRip-1080p][EAC3 5.1][x264]-BRiNK.mkv" on "30b15cfe60706d57356c195f29bdec6b"
-[2023-10-23 23:46:15.838 +01:00] [INF] [26] Jellyfin.Plugin.Simkl.API.SimklApi: Syncing History
-<span class="token trimmed">(17 more lines were trimmed)</span></code>
                                     </div>
                                 </div>
                             </section>
@@ -977,7 +992,7 @@ And as I can see it's the same error as this #20 , this plugin tries to detect t
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.29m out of 84m repositories</span>
+                                    <span class="gh">ranked 1.29m out of 82.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -1023,7 +1038,7 @@ And as I can see it's the same error as this #20 , this plugin tries to detect t
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 84m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 82.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1114,7 +1129,7 @@ And as I can see it's the same error as this #20 , this plugin tries to detect t
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2023, 09:34:39 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2023, 10:34:39 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
