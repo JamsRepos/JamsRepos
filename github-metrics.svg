@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1861" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2565" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji,.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.49m added, 3.06m removed
+                                    4.63m added, 3.91m removed
                                 </div>
                             </section>
                             <section>
@@ -474,6 +474,395 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 61 commits in
+                                        <span class="repo">JamsRepos/wizarr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">beta</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a343719</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/beta' into beta</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb335e3</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/><path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/><path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/><path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/></svg> Fix JSON parsing issue for client payload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#941ad6b</div>
+                                        <div class="message">
+                                            chore(release): 3.6.0-beta.2 [skip ci]
+
+# [3.6.0-beta.2](https://github.com/Wizarrrr/wizarr/compare/v3.6.0-beta.1...v3.6.0-beta.2) (2023-11-08)
+
+### Bug Fixes
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            not detecting plugin configs ([4487426](https://github.com/Wizarrrr/wizarr/commit/44874265b0c59f323f080f4eb3b624cf79a1d5a0))
+
+### Features
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#DD2E44" d="M11.626 7.488c-.112.112-.197.247-.268.395l-.008-.008L.134 33.141l.011.011c-.208.403.14 1.223.853 1.937.713.713 1.533 1.061 1.936.853l.01.01L28.21 24.735l-.008-.009c.147-.07.282-.155.395-.269 1.562-1.562-.971-6.627-5.656-11.313-4.687-4.686-9.752-7.218-11.315-5.656z"/>
+                                                <path fill="#EA596E" d="M13 12L.416 32.506l-.282.635.011.011c-.208.403.14 1.223.853 1.937.232.232.473.408.709.557L17 17l-4-5z"/>
+                                                <path fill="#A0041E" d="M23.012 13.066c4.67 4.672 7.263 9.652 5.789 11.124-1.473 1.474-6.453-1.118-11.126-5.788-4.671-4.672-7.263-9.654-5.79-11.127 1.474-1.473 6.454 1.119 11.127 5.791z"/>
+                                                <path fill="#AA8DD8" d="M18.59 13.609c-.199.161-.459.245-.734.215-.868-.094-1.598-.396-2.109-.873-.541-.505-.808-1.183-.735-1.862.128-1.192 1.324-2.286 3.363-2.066.793.085 1.147-.17 1.159-.292.014-.121-.277-.446-1.07-.532-.868-.094-1.598-.396-2.11-.873-.541-.505-.809-1.183-.735-1.862.13-1.192 1.325-2.286 3.362-2.065.578.062.883-.057 1.012-.134.103-.063.144-.123.148-.158.012-.121-.275-.446-1.07-.532-.549-.06-.947-.552-.886-1.102.059-.549.55-.946 1.101-.886 2.037.219 2.973 1.542 2.844 2.735-.13 1.194-1.325 2.286-3.364 2.067-.578-.063-.88.057-1.01.134-.103.062-.145.123-.149.157-.013.122.276.446 1.071.532 2.037.22 2.973 1.542 2.844 2.735-.129 1.192-1.324 2.286-3.362 2.065-.578-.062-.882.058-1.012.134-.104.064-.144.124-.148.158-.013.121.276.446 1.07.532.548.06.947.553.886 1.102-.028.274-.167.511-.366.671z"/>
+                                                <path fill="#77B255" d="M30.661 22.857c1.973-.557 3.334.323 3.658 1.478.324 1.154-.378 2.615-2.35 3.17-.77.216-1.001.584-.97.701.034.118.425.312 1.193.095 1.972-.555 3.333.325 3.657 1.479.326 1.155-.378 2.614-2.351 3.17-.769.216-1.001.585-.967.702.033.117.423.311 1.192.095.53-.149 1.084.16 1.233.691.148.532-.161 1.084-.693 1.234-1.971.555-3.333-.323-3.659-1.479-.324-1.154.379-2.613 2.353-3.169.77-.217 1.001-.584.967-.702-.032-.117-.422-.312-1.19-.096-1.974.556-3.334-.322-3.659-1.479-.325-1.154.378-2.613 2.351-3.17.768-.215.999-.585.967-.701-.034-.118-.423-.312-1.192-.096-.532.15-1.083-.16-1.233-.691-.149-.53.161-1.082.693-1.232z"/>
+                                                <path fill="#AA8DD8" d="M23.001 20.16c-.294 0-.584-.129-.782-.375-.345-.432-.274-1.061.156-1.406.218-.175 5.418-4.259 12.767-3.208.547.078.927.584.849 1.131-.078.546-.58.93-1.132.848-6.493-.922-11.187 2.754-11.233 2.791-.186.148-.406.219-.625.219z"/>
+                                                <path fill="#77B255" d="M5.754 16c-.095 0-.192-.014-.288-.042-.529-.159-.829-.716-.67-1.245 1.133-3.773 2.16-9.794.898-11.364-.141-.178-.354-.353-.842-.316-.938.072-.849 2.051-.848 2.071.042.551-.372 1.031-.922 1.072-.559.034-1.031-.372-1.072-.923-.103-1.379.326-4.035 2.692-4.214 1.056-.08 1.933.287 2.552 1.057 2.371 2.951-.036 11.506-.542 13.192-.13.433-.528.712-.958.712z"/>
+                                                <circle fill="#5C913B" cx="25.5" cy="9.5" r="1.5"/>
+                                                <circle fill="#9266CC" cx="2" cy="18" r="2"/>
+                                                <circle fill="#5C913B" cx="32.5" cy="19.5" r="1.5"/>
+                                                <circle fill="#5C913B" cx="23.5" cy="31.5" r="1.5"/>
+                                                <circle fill="#FFCC4D" cx="28" cy="4" r="2"/>
+                                                <circle fill="#FFCC4D" cx="32.5" cy="8.5" r="1.5"/>
+                                                <circle fill="#FFCC4D" cx="29.5" cy="12.5" r="1.5"/>
+                                                <circle fill="#FFCC4D" cx="7.5" cy="23.5" r="1.5"/>
+                                            </svg>
+                                            Add resolve-config.js for semantic-release-discord ([d61f203](https://github.com/Wizarrrr/wizarr/commit/d61f203c1b11c856e7fe5e88694b78553f087a53))
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d61f203</div>
+                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#DD2E44" d="M11.626 7.488c-.112.112-.197.247-.268.395l-.008-.008L.134 33.141l.011.011c-.208.403.14 1.223.853 1.937.713.713 1.533 1.061 1.936.853l.01.01L28.21 24.735l-.008-.009c.147-.07.282-.155.395-.269 1.562-1.562-.971-6.627-5.656-11.313-4.687-4.686-9.752-7.218-11.315-5.656z"/><path fill="#EA596E" d="M13 12L.416 32.506l-.282.635.011.011c-.208.403.14 1.223.853 1.937.232.232.473.408.709.557L17 17l-4-5z"/><path fill="#A0041E" d="M23.012 13.066c4.67 4.672 7.263 9.652 5.789 11.124-1.473 1.474-6.453-1.118-11.126-5.788-4.671-4.672-7.263-9.654-5.79-11.127 1.474-1.473 6.454 1.119 11.127 5.791z"/><path fill="#AA8DD8" d="M18.59 13.609c-.199.161-.459.245-.734.215-.868-.094-1.598-.396-2.109-.873-.541-.505-.808-1.183-.735-1.862.128-1.192 1.324-2.286 3.363-2.066.793.085 1.147-.17 1.159-.292.014-.121-.277-.446-1.07-.532-.868-.094-1.598-.396-2.11-.873-.541-.505-.809-1.183-.735-1.862.13-1.192 1.325-2.286 3.362-2.065.578.062.883-.057 1.012-.134.103-.063.144-.123.148-.158.012-.121-.275-.446-1.07-.532-.549-.06-.947-.552-.886-1.102.059-.549.55-.946 1.101-.886 2.037.219 2.973 1.542 2.844 2.735-.13 1.194-1.325 2.286-3.364 2.067-.578-.063-.88.057-1.01.134-.103.062-.145.123-.149.157-.013.122.276.446 1.071.532 2.037.22 2.973 1.542 2.844 2.735-.129 1.192-1.324 2.286-3.362 2.065-.578-.062-.882.058-1.012.134-.104.064-.144.124-.148.158-.013.121.276.446 1.07.532.548.06.947.553.886 1.102-.028.274-.167.511-.366.671z"/><path fill="#77B255" d="M30.661 22.857c1.973-.557 3.334.323 3.658 1.478.324 1.154-.378 2.615-2.35 3.17-.77.216-1.001.584-.97.701.034.118.425.312 1.193.095 1.972-.555 3.333.325 3.657 1.479.326 1.155-.378 2.614-2.351 3.17-.769.216-1.001.585-.967.702.033.117.423.311 1.192.095.53-.149 1.084.16 1.233.691.148.532-.161 1.084-.693 1.234-1.971.555-3.333-.323-3.659-1.479-.324-1.154.379-2.613 2.353-3.169.77-.217 1.001-.584.967-.702-.032-.117-.422-.312-1.19-.096-1.974.556-3.334-.322-3.659-1.479-.325-1.154.378-2.613 2.351-3.17.768-.215.999-.585.967-.701-.034-.118-.423-.312-1.192-.096-.532.15-1.083-.16-1.233-.691-.149-.53.161-1.082.693-1.232z"/><path fill="#AA8DD8" d="M23.001 20.16c-.294 0-.584-.129-.782-.375-.345-.432-.274-1.061.156-1.406.218-.175 5.418-4.259 12.767-3.208.547.078.927.584.849 1.131-.078.546-.58.93-1.132.848-6.493-.922-11.187 2.754-11.233 2.791-.186.148-.406.219-.625.219z"/><path fill="#77B255" d="M5.754 16c-.095 0-.192-.014-.288-.042-.529-.159-.829-.716-.67-1.245 1.133-3.773 2.16-9.794.898-11.364-.141-.178-.354-.353-.842-.316-.938.072-.849 2.051-.848 2.071.042.551-.372 1.031-.922 1.072-.559.034-1.031-.372-1.072-.923-.103-1.379.326-4.035 2.692-4.214 1.056-.08 1.933.287 2.552 1.057 2.371 2.951-.036 11.506-.542 13.192-.13.433-.528.712-.958.712z"/><circle fill="#5C913B" cx="25.5" cy="9.5" r="1.5"/><circle fill="#9266CC" cx="2" cy="18" r="2"/><circle fill="#5C913B" cx="32.5" cy="19.5" r="1.5"/><circle fill="#5C913B" cx="23.5" cy="31.5" r="1.5"/><circle fill="#FFCC4D" cx="28" cy="4" r="2"/><circle fill="#FFCC4D" cx="32.5" cy="8.5" r="1.5"/><circle fill="#FFCC4D" cx="29.5" cy="12.5" r="1.5"/><circle fill="#FFCC4D" cx="7.5" cy="23.5" r="1.5"/></svg> Add resolve-config.js for semantic-release-discord</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ef9f3d</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/beta' into beta</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4487426</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/><path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/><path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/><circle fill="#FFF" cx="6.682" cy="5" r="1"/><path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/></svg> not detecting plugin configs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7ee4e</div>
+                                        <div class="message">
+                                            chore(release): 3.6.0-beta.1 [skip ci]
+
+# [3.6.0-beta.1](https://github.com/Wizarrrr/wizarr/compare/v3.5.1-beta.9...v3.6.0-beta.1) (2023-11-08)
+
+### Features
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#292F33" d="M26 9c-3.591 0-6.27-1.648-7.989-4.905C16.385 7.314 13.993 9 11 9c-.552 0-1-.448-1-1s.448-1 1-1c2.729 0 4.765-1.957 6.051-5.816C17.188.775 17.569.5 18 .5s.812.275.949.684C20.271 5.151 22.512 7 26 7c.553 0 1 .448 1 1s-.447 1-1 1z"/>
+                                                <path fill="#FFAC33" d="M14.711 9.654c3.364 3.366.498 5.954-2.868 9.319-3.365 3.365-5.954 6.232-9.319 2.868-3.366-3.366-3.366-8.822 0-12.187 3.366-3.366 8.821-3.366 12.187 0z"/>
+                                                <path fill="#BE1931" d="M15.542 10.972c1.584 1.585.248 5.486-2.983 8.717-3.231 3.231-7.132 4.568-8.717 2.982-1.584-1.584-.248-5.486 2.982-8.717 3.232-3.23 7.134-4.566 8.718-2.982z"/>
+                                                <path fill="#FFAC33" d="M21.289 9.654c-3.363 3.366-.498 5.954 2.868 9.319 3.365 3.365 5.954 6.232 9.319 2.868 3.365-3.366 3.365-8.822 0-12.187-3.365-3.366-8.82-3.366-12.187 0z"/>
+                                                <path fill="#BE1931" d="M20.459 10.972c-1.585 1.585-.249 5.486 2.982 8.717 3.23 3.231 7.133 4.568 8.717 2.982 1.584-1.584.248-5.486-2.983-8.717-3.23-3.23-7.133-4.566-8.716-2.982z"/>
+                                                <path fill="#AA8DD8" d="M22.41 18.221c.199-.16.459-.244.734-.215.867.094 1.598.396 2.109.873.541.505.807 1.183.734 1.862-.129 1.191-1.324 2.285-3.363 2.065-.793-.085-1.146.17-1.158.291-.014.121.277.446 1.07.532.867.094 1.598.396 2.109.873.541.505.809 1.183.734 1.862-.129 1.192-1.324 2.285-3.361 2.066-.578-.062-.883.057-1.012.134-.103.063-.144.124-.148.158-.012.12.275.445 1.07.531.549.06.947.553.887 1.102-.059.549-.551.946-1.102.887-2.037-.219-2.973-1.542-2.844-2.735.129-1.192 1.324-2.285 3.363-2.065.578.063.881-.057 1.01-.134.104-.062.145-.123.148-.157.014-.121-.275-.446-1.07-.532-2.037-.22-2.973-1.542-2.844-2.735.129-1.192 1.324-2.286 3.361-2.064.578.062.883-.058 1.012-.135.103-.062.144-.123.148-.157.012-.121-.277-.446-1.07-.532-.549-.059-.947-.553-.887-1.102.032-.276.171-.512.37-.673z"/>
+                                                <path fill="#77B255" d="M15.266 35.828c-1.973.557-3.334-.322-3.658-1.477-.324-1.154.378-2.615 2.35-3.17.77-.216 1.001-.584.97-.701-.034-.119-.425-.312-1.193-.096-1.972.556-3.333-.324-3.657-1.479-.326-1.155.378-2.614 2.351-3.169.769-.217 1.001-.586.967-.703-.033-.116-.423-.311-1.192-.095-.53.149-1.084-.159-1.233-.69-.148-.533.161-1.084.693-1.234 1.971-.555 3.333.322 3.659 1.479.324 1.154-.379 2.613-2.352 3.17-.77.216-1.001.584-.967.701.032.117.422.312 1.19.096 1.974-.556 3.334.322 3.659 1.479.325 1.153-.378 2.612-2.352 3.169-.768.215-.999.586-.967.701.034.118.423.312 1.192.097.532-.151 1.083.159 1.233.69.149.531-.161 1.084-.693 1.232z"/>
+                                                <circle fill="#5C913B" cx="2.5" cy="27.5" r="1.5"/>
+                                                <circle fill="#9266CC" cx="7" cy="31" r="2"/>
+                                                <circle fill="#9266CC" cx="30" cy="27" r="2"/>
+                                                <circle fill="#5C913B" cx="25.5" cy="31.5" r="1.5"/>
+                                                <circle fill="#5C913B" cx="17.5" cy="19.5" r="1.5"/>
+                                                <circle fill="#FFCC4D" cx="7" cy="23" r="2"/>
+                                                <circle fill="#FFCC4D" cx="27.5" cy="16.5" r="1.5"/>
+                                                <circle fill="#FFCC4D" cx="12.5" cy="14.5" r="1.5"/>
+                                            </svg>
+                                            Add semantic-release-github-dispatch module ([7cdbfc6](https://github.com/Wizarrrr/wizarr/commit/7cdbfc65cec646b07a8509a4144abc80013fd0f5))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            update release.config.cjs and add semantic-release-github-dispatch plugin ([0d24664](https://github.com/Wizarrrr/wizarr/commit/0d246643223f8b35ba7955e32a32421a8072f754))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            update semantic release packages and dependencies ([d46691a](https://github.com/Wizarrrr/wizarr/commit/d46691acb13f2ba3101583895bcba7347ae48d81))
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a03d4c</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/beta' into beta</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cdbfc6</div>
+                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#292F33" d="M26 9c-3.591 0-6.27-1.648-7.989-4.905C16.385 7.314 13.993 9 11 9c-.552 0-1-.448-1-1s.448-1 1-1c2.729 0 4.765-1.957 6.051-5.816C17.188.775 17.569.5 18 .5s.812.275.949.684C20.271 5.151 22.512 7 26 7c.553 0 1 .448 1 1s-.447 1-1 1z"/><path fill="#FFAC33" d="M14.711 9.654c3.364 3.366.498 5.954-2.868 9.319-3.365 3.365-5.954 6.232-9.319 2.868-3.366-3.366-3.366-8.822 0-12.187 3.366-3.366 8.821-3.366 12.187 0z"/><path fill="#BE1931" d="M15.542 10.972c1.584 1.585.248 5.486-2.983 8.717-3.231 3.231-7.132 4.568-8.717 2.982-1.584-1.584-.248-5.486 2.982-8.717 3.232-3.23 7.134-4.566 8.718-2.982z"/><path fill="#FFAC33" d="M21.289 9.654c-3.363 3.366-.498 5.954 2.868 9.319 3.365 3.365 5.954 6.232 9.319 2.868 3.365-3.366 3.365-8.822 0-12.187-3.365-3.366-8.82-3.366-12.187 0z"/><path fill="#BE1931" d="M20.459 10.972c-1.585 1.585-.249 5.486 2.982 8.717 3.23 3.231 7.133 4.568 8.717 2.982 1.584-1.584.248-5.486-2.983-8.717-3.23-3.23-7.133-4.566-8.716-2.982z"/><path fill="#AA8DD8" d="M22.41 18.221c.199-.16.459-.244.734-.215.867.094 1.598.396 2.109.873.541.505.807 1.183.734 1.862-.129 1.191-1.324 2.285-3.363 2.065-.793-.085-1.146.17-1.158.291-.014.121.277.446 1.07.532.867.094 1.598.396 2.109.873.541.505.809 1.183.734 1.862-.129 1.192-1.324 2.285-3.361 2.066-.578-.062-.883.057-1.012.134-.103.063-.144.124-.148.158-.012.12.275.445 1.07.531.549.06.947.553.887 1.102-.059.549-.551.946-1.102.887-2.037-.219-2.973-1.542-2.844-2.735.129-1.192 1.324-2.285 3.363-2.065.578.063.881-.057 1.01-.134.104-.062.145-.123.148-.157.014-.121-.275-.446-1.07-.532-2.037-.22-2.973-1.542-2.844-2.735.129-1.192 1.324-2.286 3.361-2.064.578.062.883-.058 1.012-.135.103-.062.144-.123.148-.157.012-.121-.277-.446-1.07-.532-.549-.059-.947-.553-.887-1.102.032-.276.171-.512.37-.673z"/><path fill="#77B255" d="M15.266 35.828c-1.973.557-3.334-.322-3.658-1.477-.324-1.154.378-2.615 2.35-3.17.77-.216 1.001-.584.97-.701-.034-.119-.425-.312-1.193-.096-1.972.556-3.333-.324-3.657-1.479-.326-1.155.378-2.614 2.351-3.169.769-.217 1.001-.586.967-.703-.033-.116-.423-.311-1.192-.095-.53.149-1.084-.159-1.233-.69-.148-.533.161-1.084.693-1.234 1.971-.555 3.333.322 3.659 1.479.324 1.154-.379 2.613-2.352 3.17-.77.216-1.001.584-.967.701.032.117.422.312 1.19.096 1.974-.556 3.334.322 3.659 1.479.325 1.153-.378 2.612-2.352 3.169-.768.215-.999.586-.967.701.034.118.423.312 1.192.097.532-.151 1.083.159 1.233.69.149.531-.161 1.084-.693 1.232z"/><circle fill="#5C913B" cx="2.5" cy="27.5" r="1.5"/><circle fill="#9266CC" cx="7" cy="31" r="2"/><circle fill="#9266CC" cx="30" cy="27" r="2"/><circle fill="#5C913B" cx="25.5" cy="31.5" r="1.5"/><circle fill="#5C913B" cx="17.5" cy="19.5" r="1.5"/><circle fill="#FFCC4D" cx="7" cy="23" r="2"/><circle fill="#FFCC4D" cx="27.5" cy="16.5" r="1.5"/><circle fill="#FFCC4D" cx="12.5" cy="14.5" r="1.5"/></svg> Add semantic-release-github-dispatch module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84e1ea0</div>
+                                        <div class="message">refactor: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/></svg> CI/CD workflow file for Docker builds and pushes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d24664</div>
+                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/><path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/><circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/><path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/><path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/><path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/></svg> update release.config.cjs and add semantic-release-github-dispatch plugin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d46691a</div>
+                                        <div class="message">
+                                            feat:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            update semantic release packages and dependencies
+
+The commit updates the versions of the following semantic release packages:
+- @wizarrrr/semantic-release-discord
+- @wizarrrr/semantic-release-github-dispatch
+- @wizarrrr/semantic-release-sentry-releases
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c2d8f5</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#F4900C" d="M35.676 18.625c.057.794.011 5.907.006 6.093-.004.139-.013.279-.026.422-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.656 22.827.641 19.312c-.233-.807-.324-1.562-.294-2.267.011-.256-.141-5.031.035-6.169.338-2.189 35.008 3.795 35.294 7.749z"/><path fill="#FFCC4D" d="M4.718 4.856c3.5-2.125 8.964-2.286 12.5 1.25 3 3 4.243 3.843 9.243 4.843s9.632 3.532 9.194 8.094c-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.655 16.73.64 13.215c-1.109-3.842.996-6.487 4.078-8.359z"/><g fill="#FFAC33"><circle cx="12.513" cy="14.106" r="1.5"/><circle cx="29.013" cy="25.794" r="1"/><circle cx="17.013" cy="24.106" r="1"/><circle cx="24.513" cy="24.794" r="1.5"/><circle cx="31.825" cy="21.606" r="1.5"/><circle cx="29.013" cy="18.419" r="1"/><circle cx="25.013" cy="20.356" r="1"/><circle cx="19.513" cy="21.356" r="1"/><path d="M14.013 20.606c0-.828-.672-1.5-1.5-1.5-.496 0-.933.244-1.206.616.074.067.155.127.224.197.598.598 1.192 1.258 1.806 1.939.406-.268.676-.728.676-1.252z"/><circle cx="9.575" cy="16.419" r="1"/><circle cx="16.013" cy="17.419" r="1"/><circle cx="24.513" cy="13.606" r="1.5"/><circle cx="21.013" cy="17.419" r="1.5"/><circle cx="12.013" cy="10.106" r="1"/><circle cx="20.513" cy="11.106" r="1"/><circle cx="14.513" cy="7.856" r="1"/><circle cx="7.575" cy="12.606" r="1"/><circle cx="6.013" cy="6.856" r="1"/><circle cx="28.575" cy="14.106" r="1"/><circle cx="33.325" cy="17.419" r="1"/><circle cx="3.263" cy="10.606" r="1.5"/><circle cx="10.575" cy="5.856" r="1.5"/><circle cx="16.513" cy="11.106" r="1.5"/><path d="M19.513 26.106c-.408 0-.778.164-1.048.429.77.486 1.61.908 2.531 1.243.007-.057.017-.113.017-.172 0-.828-.672-1.5-1.5-1.5zm-14.75-10.5c0-.552-.448-1-1-1-.542 0-.978.433-.994.971.491.288 1.034.549 1.615.795.225-.184.379-.452.379-.766z"/></g></svg> expose port 5690 in Dockerfiles for wizarr-backend, wizarr-ci, wizarr-frontend, and wizarr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3d2f87</div>
+                                        <div class="message">
+                                            chore(release): 3.5.1-beta.9 [skip ci]
+
+## [3.5.1-beta.9](https://github.com/Wizarrrr/wizarr/compare/v3.5.1-beta.8...v3.5.1-beta.9) (2023-11-08)
+
+### Bug Fixes
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/>
+                                                <path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/>
+                                                <circle cx="9" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="9" cy="31" r="2" fill="#99AAB5"/>
+                                                <circle cx="27" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="27" cy="31" r="2" fill="#99AAB5"/>
+                                                <path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/>
+                                                <path fill="#55ACEE" d="M8 10h5v7H4z"/>
+                                                <path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/>
+                                                <path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/>
+                                                <path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/>
+                                            </svg>
+                                            Refactor AdminTemplate and HeaderTemplate components ([e0b3f4d](https://github.com/Wizarrrr/wizarr/commit/e0b3f4d2d4fdba51ea36fcd0e32f27a74a2b2c17))
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0b3f4d</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/><path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/><circle cx="9" cy="31" r="4" fill="#292F33"/><circle cx="9" cy="31" r="2" fill="#99AAB5"/><circle cx="27" cy="31" r="4" fill="#292F33"/><circle cx="27" cy="31" r="2" fill="#99AAB5"/><path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/><path fill="#55ACEE" d="M8 10h5v7H4z"/><path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/><path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/><path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/></svg> Refactor AdminTemplate and HeaderTemplate components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fce2e6</div>
+                                        <div class="message">feat(ci-workflows): Update Docker Build and Push Beta workflow
+
+- Updated the name of the workflow to "Docker Build and Push Beta on Release".
+- Modified the trigger conditions to include all tags instead of being limited to a specific branch.
+- Added an input for the tag in the workflow_dispatch event.
+- Removed the "concurrency" configuration.
+- Removed the "bump_version" job and related steps.
+- Adjusted the "build" job to remove the steps related to bumping the version and updating the "latest" file.
+- Updated the "release" job in a separate file "beta-release.yml" for releasing and bumping on push.
+- Excluded additional files and folders from triggering the release workflow.
+- Added necessary steps for releasing the beta version.
+
+This commit improves the Docker Build and Push Beta workflow by updating its name, trigger conditions, and adding a new input for the tag in the workflow_dispatch event. It also removes unnecessary steps related to version bumping and "latest" file management. Additionally, a separate job and file for releasing and bumping on push have been added.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52be565</div>
+                                        <div class="message">
+                                            chore(release): 3.5.1-beta.8 [skip ci]
+
+## [3.5.1-beta.8](https://github.com/Wizarrrr/wizarr/compare/v3.5.1-beta.7...v3.5.1-beta.8) (2023-11-08)
+
+### Bug Fixes
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            refactor beta-ci.yml for improved flexibility and simplicity ([6102fc2](https://github.com/Wizarrrr/wizarr/commit/6102fc20e9b792d15466ae96e41f18bd9874b4e3))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/>
+                                                <path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/>
+                                                <circle cx="9" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="9" cy="31" r="2" fill="#99AAB5"/>
+                                                <circle cx="27" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="27" cy="31" r="2" fill="#99AAB5"/>
+                                                <path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/>
+                                                <path fill="#55ACEE" d="M8 10h5v7H4z"/>
+                                                <path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/>
+                                                <path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/>
+                                                <path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/>
+                                            </svg>
+                                            updated tag selection logic in beta-ci workflow and fixed beta CI action ([1ffd4b6](https://github.com/Wizarrrr/wizarr/commit/1ffd4b67f11f9862fc01ce32daa436f3d4b627bf))
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ffd4b6</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/><path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/><circle cx="9" cy="31" r="4" fill="#292F33"/><circle cx="9" cy="31" r="2" fill="#99AAB5"/><circle cx="27" cy="31" r="4" fill="#292F33"/><circle cx="27" cy="31" r="2" fill="#99AAB5"/><path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/><path fill="#55ACEE" d="M8 10h5v7H4z"/><path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/><path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/><path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/></svg> updated tag selection logic in beta-ci workflow and fixed beta CI action</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6102fc2</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/><path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/><path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/><circle fill="#FFF" cx="6.682" cy="5" r="1"/><path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/></svg> refactor beta-ci.yml for improved flexibility and simplicity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d9e0fc</div>
+                                        <div class="message">Translated using Weblate (German)
+
+Currently translated at 100.0% (299 of 299 strings)
+
+Translation: Wizarr V3/Wizarr
+Translate-URL: https://hosted.weblate.org/projects/wizarr-v3/wizarr/de/</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 237 commits in
+                                        <span class="repo">JamsRepos/wizarr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dedb5a0</div>
+                                        <div class="message">refactor: <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEvklEQVR4nO2Yz0+jRRzGXwp9gaa/KHtQz15MvIiJHjyQePIfMd78cTLRGLl5MCwVBYHdhQXemXn7lpdSWgoCXQ/Gg8mu0RhNCiyN6HIwy2X33dXE4GOeWhKjxSUyQGfzfpPnQsvMZz7vd2be1LLCCutMynXdZ4QQQ1LKLxzH2RVCBI7j4CQRQvwmhNiTUn6llPrQ87wXLFNqdnb2OcdxKkeL8TwPi4uLKBQKWFpaOlH4Xd/3kcvlKKMxjpTyW8/zXrHatYaGhiJSyjHHcQ6llFheXsbGxgaq1eqpwjE4llLqSERuZmamx2qnKhaLCSHEDQLy6W1ubp564a3C7mhK+NrzvCesdigAHUKIClu1VCqdycL/nnK5TAHcGrfaohOklFk+FbbpWS/+KCsrK41OUErNX+jiXdd9VgjxOw+542ArlUqjdfP5PBYWFk4UfpdbaXV19dhx+bnjOH/4vv/ShQlQSjVav9Vht76+3lhI8zZ4wFNcKfXlSSKl/I5XIf+XY7Qan+cMtwK/f1GLf0oIcVgsFlsu3nVdLvy+Uuqt/7NXPc+Lu677rhDiV94ArSRw7uZV+7R13iWlfJOTr62t/QuMbcwXH6XUixrmeZndwPeCVqLJQFHWeZfrust8Mv+EohDdUFLKD46TTQYp5ap13iWEuMUn3aotmwdjv665fN9/ki9YrbYbGRzH+cY675JS/tyqLfk3fnYG8+3/x3z7uud7ZEkpD3gVtQISQuxYmktKudNKABmEEAe653tkhQJk2AEH4RYohGcAwkOwGt4CCK/BavgegMf+RajuZd7Ydvt3ttz+w5rqRzuGbGSs5/pf17r427nM+5zgJz+Nu6U4DsrtGbLt+emGjN185j0ti//es+wtdenhfiEFfN5tRO4sprDtXnr4i2fFTy1g200N1EQG91ZiwA3biJCVzPWF5Kl/kLHqMj1YczIIKjGgahsRspKZ7HoEzGcQsAM2bSNCVjLrFVCOARu2ESGrPgFz6cHaXAZBKQas20aErGQmux4Bs30IlnuBz6JGhKxk1ifgeh+CYi+wFjUiZCVzKGBOVwfM9CFY6gVWo0aErGTWK6DQC1SiRoSs+gRMpwdr02kEiz3ASpcRISuZya5HwLU0Ar8HKHcZEbKSWZ+Aq2kECz1AqcuIkJXM+gRcaQpY7jIiDQFXdAmYagrI9wDFLiNC1oaAKV0CplIIvG5gqdOIkJXM+gRMphDkuoFCpxEhK5n1CZhIIXC7gcVOI0JWMocCpnR1wKcpBKob8DuNCFnJrEfAePwvAdIGFiJGhKwNAeNxTQLGUwiEDeQjRoSsZNYnYCyFwLEBL2JEyEpmfQI+SSGYt4FcxIiQlcz6BHycQjBnA27EiJCVzHoEjDYFzNqAihgRsjYEjOoSMJpEcD0KyA4jQlYy6xPwURLBTBQQHUaErGTWJyCbRDAdBZwOI0JWMusTMJJEcC0KzHcYEbKSWYuA7ZHYAAe7d9UcAWQl8w8jsYFTC7g5aUW3ssngzlgvMGcZEbLWRpL3b04+H7V01G428U7tcgJ7ozHcnejGwYTdliHbj6MxkPV2NvG2pbPq2fhrW5cT9dpw4rA2nECb5nBrOLG7m028qnXxYVmPb/0JW4buvrdFSDoAAAAASUVORK5CYII=" height="16" width="16" alt="" /> Changed sensitive fields to password type.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51dc8dd</div>
+                                        <div class="message">Add version selection to beta-sentry workflow
+
+- Allow users to specify the version to release in the beta-sentry workflow
+- Added an input `version` with optional and default values for better flexibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abca99a</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe5cc68</div>
+                                        <div class="message">chore: Automated Version Bump [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fef8019</div>
+                                        <div class="message">ci: version bump to 3.4.11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e7c018</div>
+                                        <div class="message">Merge pull request #293 from Wizarrrr/translations
+
+Translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#540d4ca</div>
+                                        <div class="message">Refactor CI workflows, create Sentry release workflow, and add Discord notifications
+
+- Refactored CI workflows to remove unnecessary steps and optimize execution.
+- Added a new workflow for creating Sentry release.
+- Integrated Discord notifications for both beta and production releases.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d3d6f1</div>
+                                        <div class="message">chore: Automated Version Bump [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83a06f0</div>
+                                        <div class="message">ci: version bump to 3.4.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f501975</div>
+                                        <div class="message">fix: Add Sentry integration and run migrations
+
+This commit adds Sentry integration to the application by initializing the Sentry SDK with the appropriate settings. Additionally, it runs the necessary migrations for the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55b59ab</div>
+                                        <div class="message">chore: Automated Version Bump [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a94e184</div>
+                                        <div class="message">ci: version bump to 3.4.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7751c21</div>
+                                        <div class="message">Add Sentry release creation action and new font files
+
+This commit adds a new step to create a Sentry release in the beta CI workflow. It also includes the addition of new font files for Motiva Sans font in the frontend application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd7b660</div>
+                                        <div class="message">Compile translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4034f3f</div>
+                                        <div class="message">Merge pull request #291 from weblate/weblate-wizarr-v3-wizarr
+
+Translations update from Hosted Weblate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#622bf19</div>
+                                        <div class="message">Translated using Weblate (French)
+
+Currently translated at 100.0% (299 of 299 strings)
+
+Translation: Wizarr V3/Wizarr
+Translate-URL: https://hosted.weblate.org/projects/wizarr-v3/wizarr/fr/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed52c21</div>
+                                        <div class="message">Compile translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4d3ba7</div>
+                                        <div class="message">Merge pull request #285 from weblate/weblate-wizarr-v3-wizarr
+
+Translations update from Hosted Weblate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c078728</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/translations' into translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a2f7a3</div>
+                                        <div class="message">Translated using Weblate (French)
+
+Currently translated at 96.6% (289 of 299 strings)
+
+Translation: Wizarr V3/Wizarr
+Translate-URL: https://hosted.weblate.org/projects/wizarr-v3/wizarr/fr/</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -505,32 +894,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">vuejs/vue-cli</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added HawksRepos as collaborator in
-                                        <span class="repo">JamsRepos/VueJS-Example</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">FilipePS/Traduzir-paginas-web</span>
                                     </div>
                                 </div>
                             </section>
@@ -951,7 +1314,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.30m out of 46.8m repositories</span>
+                                    <span class="gh">ranked 1.30m out of 49.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -997,7 +1360,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.46m out of 46.8m repositories</span>
+                                    <span class="gh">ranked 4.63m out of 49.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1088,7 +1451,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 11:34:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 12:41:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
