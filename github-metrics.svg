@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1948" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2564" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 18 users
+                            Followed by 17 users
                         </div>
                     </section>
                     <section>
@@ -34,7 +34,7 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            835 Commits
+                            941 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    63.2k added, 40.9k removed
+                                    296k added, 283k removed
                                 </div>
                             </section>
                             <section>
@@ -437,11 +437,10 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    18 followers
+                    17 followers
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGCP/EACwQAAEDAwIEAwkAAAAAAAAAAAECAwQABRESMQYTIVFBYXEHFCOBkaGxsuH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQQSAyExQf/aAAwDAQACEQMRAD8A6DXMx41j+PuJbrbYumyIih3kqeU9KzoGCgYAG5Ovx7VD7h7SuJ5xIbmlodmWwP7SFqiX12JIkcQPLdalNfDblu63ARggjJ6ehxmllNRZhUWalR4A4vm362Pm7JjomMqAyyCAtBHQ4J9adcuLaV4U6lJ7ZrmKLbZVydc5GFvtDXyyrQT1Py+9DSJTkaQ4zIbKHkKIWle4NNPDfYEUWo1cYsJZM+E28MtOSG0OqCdhrGfOqtcpse5P3RhagvQ7jI3SeuMefSpdHWTdIaQABzht6ikbG445IfcW4orkOOlw53wRj8mtjHZ6P2HMRlTYHyNW1TESVd3mUjlx20NdPEgFR/cfSp5eli7XJ6V7olWSE52zgCtJaCpyDO1qJ5rjurz3rHMOqSggY37VRksUAAk2Ig5LZvZ//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAApEAACAQIFAwMFAQAAAAAAAAABAgMEEQAFEiExBhNRByJBI2FxgcHR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACAwQREiEiMf/aAAwDAQACEQMRAD8AzgyH3sOL4b+hukZc5PfkVO1f29zgn8fOFTuiE2G5ueeMXP03oy9LTLG8aOaeOVbi6HWB4PxxgNuRwb55lWpxCR3r4g/Vvp4lNlTvBHTidV1gxLoOJEBtjT2dzyVtDUqUjWOGN9R07m1/vtjPFJl0NVAsqOVvsRtziVSYtB2KRdqjI0CDPC7zOtrm/OKH6eZycmeMVU0nbHkkgJfgePNv7ytJCiy2tceDjqChFBXbGg+ATM1cswWTDJs1VvrPPYY8lkioq+OoqK2IxxhShtfkm2Ix9fLGaC6uCdd9F+f3gjmrGRaN23dU0Bvm22CdDGZqZHldmY8kgf5g0ddsLcO6kT2nWHZHF//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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5ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2FHiYRI75ogdJR4msWOO2AFHEDvgCGIHHEHsgCOIHXAEsQOOIHbAEcQOOILYAUcQO+AIYgccQeyAI4gdcASxA44gdsARxA44gtgBRxA74AhiBxxB7IAjiB1wBLEDjiB2wBHEDjiC2AFHEDvgCGIHHEHsgCOIHXAEsQOOIHbAEcQOOILYAUcQO+A5wX9q2JOXB/V2EgAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACaElEQVR4nO3V309SYRgHcP4AW6xpW62r7rpztTFFZC1kixRGUamZ0S8rlaIWRIgg571p2UWxpbjslxeWJUHYcmmDEdBgcODw6wjKj+DwwvtvtMPZmsshUt3F9lyci/N+9rzf59k5LE7T+39erAbKaWTaVCMEyYFPOq5becTJY1u4uy1/vlKCZtsrGeFXZleHUpSxDAGCAG3oIMQQqaEMnd660WPNVq8iAwGynE8w3NaakYS69y/tCBXutdnlZHocLg7EF/pjE3xv8E6OUYoYyuhLm92MvnTp0Ept1C4nv9/Mrt2ntO1uUkPZLpAY32sW41M9+ItT4YX+GOMGbufcI2kIkGc0UwM9sc9OYWhWGp7vjZpEAQgQocq/lBFTPUHfrexvd4+qCxCgnKG0HdrVYouqCwkN9UjohwCZRIFZadg6mPhyNbU1UDXHtXRxjXke7/BURScrlmsk/bQ7+MNQcg2nKYzuCALkV9KxUsZyfqJsHaRHZxIFXJXr00eG01XRuTMRCJBXkdF1eCKqfBFD02I8oaEgQB/lZFJbjN8rPD8Zfnw8QBnRpNBPqPIM6ldmq6IY38ts4rQYp5dpIM6Iq0MpPc+zfCXpuL4BAXog8D3s8tnl5K8ozBK8KspjW1Yq8X2+nIQAzZ2mG6/cGmX1JU3bt3fn4mYx/kwaghiKVNqkjGi+N9rJ/rDd9Nt2LSoPO5+IAtp292irY/Nk3vTFiLs05LxB9wsB+npt/egea91f/jGuO6ouFIxlylhmWoMArY8Vs/rS276YoMX2V7+TsweXZySh1zJC0eqo+TJrh2hdxWqgnP8305/eJbFs9Gs9xwAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
@@ -475,11 +474,94 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ellite/Wallos</span>
+                                        Pushed 35 commits in
+                                        <span class="repo">JamsRepos/XPipe-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#04d2848</div>
+                                        <div class="message">Add home server:docker:wc-staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6580f6</div>
+                                        <div class="message">Add home server:docker:adguard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84c20c3</div>
+                                        <div class="message">Add home server:docker:glances</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fecf8f8</div>
+                                        <div class="message">Add home server:docker:sabnzbd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2013ebe</div>
+                                        <div class="message">Add home server:docker:mongo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4878b6</div>
+                                        <div class="message">Add home server:docker:homeassistant</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66b5751</div>
+                                        <div class="message">Add home server:docker:cloudflareddns</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32c77e2</div>
+                                        <div class="message">Add home server:docker:prowlarr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9979f3</div>
+                                        <div class="message">Add home server:docker:wc-website</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#661436a</div>
+                                        <div class="message">Add home server:docker:jellyseerr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa219a9</div>
+                                        <div class="message">Add home server:docker:changedetection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b357e0</div>
+                                        <div class="message">Add home server:docker:postgres</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0486a19</div>
+                                        <div class="message">Add home server:docker:radarr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d3f731</div>
+                                        <div class="message">Add home server:docker:uptime-kuma</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baf2dbc</div>
+                                        <div class="message">Add home server:docker:scrutiny</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6528b21</div>
+                                        <div class="message">Add home server:docker:homarr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9244f62</div>
+                                        <div class="message">Add home server:docker:dozzle</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65b6892</div>
+                                        <div class="message">Add home server:docker:kark</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d563a2e</div>
+                                        <div class="message">Add home server:docker:kark-music</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#971efb5</div>
+                                        <div class="message">Add home server:docker:spotify</div>
                                     </div>
                                 </div>
                             </section>
@@ -488,11 +570,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">NockyCZ/CS2-Discord-Utilities</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">JamsRepos/XPipe-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7fd7513</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8f61f9</div>
+                                        <div class="message">Add home server:docker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#632279f</div>
+                                        <div class="message">Update home server</div>
                                     </div>
                                 </div>
                             </section>
@@ -501,11 +598,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">hagezi/dns-blocklists</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">JamsRepos/XPipe-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ea38b07</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c26b818</div>
+                                        <div class="message">Add home server</div>
                                     </div>
                                 </div>
                             </section>
@@ -524,8 +632,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d5c64d</div>
-                                        <div class="message">Update home server</div>
+                                        <div class="sha">#cc677ee</div>
+                                        <div class="message">Update gateway</div>
                                     </div>
                                 </div>
                             </section>
@@ -534,11 +642,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Source2ZE/MultiAddonManager</span>
+                                        Pushed 8 commits in
+                                        <span class="repo">JamsRepos/XPipe-Configuration</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1cb4adf</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4aa7d0</div>
+                                        <div class="message">Remove fe7bda7e-0a48-41b4-a4ac-2ffd12cc0bcc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#197e6cd</div>
+                                        <div class="message">Remove e819c813-1397-4c3f-b69d-1165da250151</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c84441f</div>
+                                        <div class="message">Remove baef0a03-036c-4944-8bf5-0f0e97010c49</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3859e5d</div>
+                                        <div class="message">Remove b646e178-cbb9-4191-8a09-dcd6e0213da9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#434f400</div>
+                                        <div class="message">Remove b00ff102-bd04-49ca-8310-ba7a44efd885</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d67c9f1</div>
+                                        <div class="message">Remove 92b6a9f6-1f76-4502-a85e-5a0b3be0ddb2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b467459</div>
+                                        <div class="message">Remove 6af57a8d-1ea0-4f5a-b260-f33c0d25af19</div>
                                     </div>
                                 </div>
                             </section>
@@ -565,7 +708,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.442847364818626 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.527720739219696 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -884,7 +1027,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.241206030150753 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.462311557788945 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -921,9 +1064,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 776k out of 134m users</span>
+                                    <span class="gh">ranked 825k out of 134m users</span>
                                 </div>
-                                <div class="text">Followed by 18 users</div>
+                                <div class="text">Followed by 17 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -992,7 +1135,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.38m out of 70.8m repositories</span>
+                                    <span class="gh">ranked 1.38m out of 76.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -1038,7 +1181,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.46m out of 70.8m repositories</span>
+                                    <span class="gh">ranked 3.46m out of 76.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1129,7 +1272,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 17:35:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 18:34:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
