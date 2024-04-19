@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2034" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2384" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    439k added, 239k removed
+                                    1.36m added, 445k removed
                                 </div>
                             </section>
                             <section>
@@ -474,6 +474,232 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2347 commits in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/emby-jellyfin-perms</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6fe57e0</div>
+                                        <div class="message">Fix beta release workflow and update package version
+
+- Fixes the beta release workflow by updating the target branch from "v3-alpha" to "v3-beta".
+- Updates the package version in the "package.json" file from "3.1.0" to "3.1.4".</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#faa9045</div>
+                                        <div class="message">Add chart.js and vue-chart-3 packages to frontend dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45d116d</div>
+                                        <div class="message">feat: Add InvitesGraph, InvitesTotal, TasksTotal, and UsersGraph widgets
+
+- Add new InvitesGraph widget that displays a line chart of invitations created on different days of the week.
+- Add new InvitesTotal widget that displays the total number of invitations.
+- Add new TasksTotal widget that displays the total number of tasks.
+- Add new UsersGraph widget that displays a line chart of users created on different days of the week.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f96e74</div>
+                                        <div class="message">feat: Add default dashboard layout
+
+- Added a default dashboard layout consisting of several widgets.
+- Each widget has a unique ID, type, and grid configuration.
+- The `useDashboardStore` state now initializes with the default dashboard layout.
+
+fix: Update runJob function in tasks store
+
+- Updated the `runJob` function in the `tasks` store to properly handle the response from the API.
+- If the job is null, the function will return early.
+- The updated job is now properly stored in the store.
+
+feat: Update toMinutes filter
+
+- Updated the `toMinutes` filter to include a new `utc` parameter.
+- The `utc` parameter determines whether to consider UTC time or local time.
+- Moment objects are created using the respective time zone option.
+- The difference in minutes is calculated between the input value and the current time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a891a0b</div>
+                                        <div class="message">Refactor create_invitation method and fix expires and duration validation
+
+- Refactor the create_invitation method in invitations_api.py to return the created invitation directly.
+- Update the expires and duration validation in invitations.py to correctly check if the values are in the future.
+
+The create_invitation method in invitations_api.py has been refactored to directly return the created invitation.
+
+In invitations.py, the validation for expires and duration has been fixed to properly check if the values are in the future. If the expires or duration values are strings or integers, they are converted to datetime objects representing the UTC date and time.
+
+Additionally, unnecessary code for converting models to dictionaries in get_users_by_expiring method has been removed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fc380e</div>
+                                        <div class="message">Update AdminNavBar and UserItem components
+
+- In AdminNavBar component:
+  - Modify the "router-link" class condition to highlight the active link correctly.
+
+- In UserItem component:
+  - Remove unnecessary classes from the "expired" paragraph element.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d08cd9</div>
+                                        <div class="message">Add InvitationItem.vue and UserItem.vue with updated functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c37fda4</div>
+                                        <div class="message">feat: Update Dashboard and related components
+
+- Updated the deleteWidget method to deleteLocalWidget to improve clarity.
+- Added a resetLocalDashboard method to reset the dashboard layout.
+- Updated the deleteWidget method calls to deleteLocalWidget.
+- Added a fade transition for the editing mode.
+- Added a reset layout button and a add widget button.
+- Updated the Widget component to receive the isShowing prop.
+- Updated the Dashboard component to use the deleteLocalWidget and resetLocalDashboard methods.
+- Removed the Button component import from Dashboard.
+- Updated the InviteForm component to handle duration as null for unlimited invites.
+- Updated the InviteForm component to handle duration as null for custom duration.
+- Updated the invite creation process to handle null duration and expires values.
+- Updated the AdminViews HomeView component to listen for isEditing prop changes.
+- Updated the SettingsViews DefaultView component to use nullish coalescing operator for search filtering.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b15916</div>
+                                        <div class="message">Refactor account button and related buttons
+
+- Refactored the code in AccountButton.vue, LanguageSelector.vue, LogoutButton.vue, ThemeToggle.vue, and ViewToggle.vue to use a more standardized and consistent code structure for button components.
+- Updated the usage of the `&lt;button&gt;` element and replaced it with the `&lt;div&gt;` element.
+- Made adjustments to the classes and attributes of the buttons for better styling and interactivity.
+- Modified the imports and dependencies to optimize the code and remove unused imports.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22bfcc3</div>
+                                        <div class="message">feat(backend): Add backup API endpoint
+
+This commit adds a new API endpoint for creating backups of the database and configuration. It includes a form for setting an encryption password to protect the backup file. The backup is created using the `backup_database()` function and then encrypted using the `encrypt_backup()` function with the provided password.
+
+The commit also includes changes to the frontend files, `App.vue`, `Widget.vue`, `DefaultModal.vue`, and `formkit.theme.ts`. These changes update the UI components and styles related to the backup functionality.
+
+In addition, a new view `BackupView.vue` is added to the settings section of the admin views to handle the backup configuration.
+
+The commit message short description has 50 characters. The detailed description provides more information about the changes made.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d22714</div>
+                                        <div class="message">Update admin home view to use the route name "admin-home", add console table for current route, and update button label in the invitations view to "Create Invitation".</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7385d93</div>
+                                        <div class="message">update package lock</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bda629</div>
+                                        <div class="message">Add vue-ts-responsive-grid-layout shim file and remove SettingsView component
+
+- Add `vue-ts-responsive-grid-layout` shim file to declare module and export `GridLayout` and `GridItem` components.
+- Remove `SettingsView` component file.
+
+This commit:
+
+- Adds `vue-ts-responsive-grid-layout` shim file for grid layout support.
+- Removes `SettingsView` component, which is no longer needed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c909835</div>
+                                        <div class="message">feat: Add Gridstack CSS files
+
+This commit adds the Gridstack CSS files to the project, including `gridstack.min.css` and `gridstack-extra.min.css`. These files are imported in `main.scss` using `@import` statements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc0e2fb</div>
+                                        <div class="message">feat: Add gridstack and responsive grid layout packages
+
+This commit adds the "gridstack" package to the frontend package.json dependencies and the "vue-ts-responsive-grid-layout" package to the devDependencies. It also excludes the "@flavorly/vanilla-components" directory from the tsconfig.app.json and tsconfig.json files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4286f5c</div>
+                                        <div class="message">feat: Update router redirects and component imports
+
+- Updated the router redirect from "admin-invite" to "admin-home" in the "/admin" path.
+- Changed the component import for the "test" route to import "HomeView.vue" instead of "TestView.vue".
+- Updated the component import for the "admin-settings" route to import "SettingsView.vue" instead of "SettingsView.vue".
+
+fix: Use new Plugin for formkit
+
+- Replaced the commented import of the "VanillaPlugin" with the import of the "Plugin" from "@flavorly/vanilla-components".
+- Removed the "as any" type assertion for the "Plugin" import.
+
+refactor: Remove counter store
+
+- Deleted the "counter.ts" file, which contained the "useCounterStore" store.
+
+feat: Add WidgetOptions interface
+
+- Added a new interface "WidgetOptions" in "WidgetOptions.ts" file to define the options for a widget component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53a99ac</div>
+                                        <div class="message">Add dashboard store and theme store with respective functionalities
+
+- Add `dashboard.ts` with a store named `dashboard` that includes the `updateWidget` and `deleteWidget` actions. The store initializes with a default dashboard state containing two widgets: InvitesTotal and UsersTotal.
+- Add `theme.ts` with a store named `theme` that includes a `currentTheme` getter and initializes with a default theme and a `boxView` boolean flag set to false.
+- Add `widgets.ts` with a helper function `getWidget` that dynamically imports the Vue component based on the provided widget type. If the import fails, it falls back to `ErrorWidget.vue`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3528f86</div>
+                                        <div class="message">feat: Add ViewToggle component and Button component
+
+This commit adds the ViewToggle component and Button component to the frontend. The ViewToggle component allows users to toggle between box view and list view, while the Button component provides a customizable button with various size, variant, and outline options. These components enhance the user interface and provide more interactivity to the frontend.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97ceaff</div>
+                                        <div class="message">feat: Refactor AdminTemplate, HeaderTemplate, and add WidgetTemplate
+
+- Refactored the `AdminTemplate` to improve readability and simplify the template structure.
+- Updated the styling classes in `AdminTemplate` to ensure consistent spacing and borders.
+- Added `boxView` and `contentConform` props to control the visibility and alignment of the template.
+- Refactored the `HeaderTemplate` to improve readability and simplify the template structure.
+- Added a new `WidgetTemplate` component for displaying widget-like information.
+- Implemented the `WidgetTemplate` with props for icon, title, and value.
+
+Closes #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48c7c67</div>
+                                        <div class="message">feat: Add Dashboard and ViewToggle components
+
+- Adds a new Dashboard component to display widgets in a grid layout.
+- Adds a ViewToggle component to AdminNavBar for switching between views.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">fix/emby-jellyfin-perms</span>
+                                        in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -522,36 +748,6 @@
                                     <div class="commit">
                                         <div class="sha">#b6207d6</div>
                                         <div class="message">Initial commit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">ReforgeStreams/status.refor.ge</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">ReforgeStreams/status.refor.ge</span>
                                     </div>
                                 </div>
                             </section>
@@ -813,7 +1009,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 47.4k out of 203m repositories</span>
+                                    <span class="gh">ranked 47.4k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 986 stars</div>
                             </div>
@@ -1092,7 +1288,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 203m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1183,7 +1379,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2024, 21:34:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2024, 22:34:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
