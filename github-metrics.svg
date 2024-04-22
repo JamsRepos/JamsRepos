@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2418" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2169" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.namespace{color:#b44418}.token.boolean{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 960 repositories
+                            Starred 959 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.52m added, 914k removed
+                                    1.83m added, 1.19m removed
                                 </div>
                             </section>
                             <section>
@@ -474,11 +474,65 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">feature/live-tv-access</span>
+                                        in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9b9ddd</div>
+                                        <div class="message">Merge pull request #382 from wizarrrr/feature/live-tv-access
+
+feat: Live TV Access for Jellyfin/Emby invites</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b94a6e</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/><path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/><path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/><path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/></svg> Corrected Live TV for Jellyfin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a71ada5</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#C1694F" d="M19.175 16.825c-.706-.706-.706-1.861 0-2.567L32.433 1C33.139.294 34.294.294 35 1c.706.706.706 1.861 0 2.567L21.742 16.825c-.706.706-1.861.706-2.567 0z"/><path fill="#66757F" d="M8.839 27.365l-.204-.204c-.941-.941-.941-2.48 0-3.42l8.35-8.35c.941-.941 2.48-.941 3.42 0l.204.204c.941.941.941 2.48 0 3.42l-8.35 8.35c-.94.941-2.48.941-3.42 0z"/><path fill="#FFCC4D" d="M19.389 26.341c1.688-1.688.671-5.441-1.809-7.921s-6.233-3.497-7.921-1.809L0 26.16 9.84 36l9.549-9.659z"/><path fill="#FFAC33" d="M2.02 28.18l8.66-8.658.58.58L2.6 28.76zm1.74 1.74l8.66-8.659.58.58-8.66 8.66zm1.74 1.74L14.158 23l.58.58-8.66 8.66zm1.74 1.74l8.659-8.66.58.58-8.66 8.659z"/><path fill="#55ACEE" d="M9.875 16.43c-.073.059-.149.114-.216.181L7.46 18.779l9.761 9.761 2.167-2.199c.067-.067.123-.143.181-.216L9.875 16.43z"/><path fill="#269" d="M8.882 18.221l.235-.568 9.225 9.224-.572.232z"/></svg> bump db migration script version/date</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cba8c3</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/><g fill="#C1694F"><circle cx="4.389" cy="25.778" r=".972"/><circle cx="7.306" cy="28.694" r=".972"/><circle cx="10.222" cy="31.611" r=".972"/><circle cx="7.306" cy="22.861" r=".972"/><circle cx="10.222" cy="25.778" r=".972"/><circle cx="13.139" cy="28.694" r=".972"/><path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/><circle cx="25.778" cy="10.222" r=".972"/><circle cx="28.694" cy="13.139" r=".972"/><circle cx="25.778" cy="4.389" r=".972"/><circle cx="28.694" cy="7.306" r=".972"/><circle cx="31.611" cy="10.222" r=".972"/></g><path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/><path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/></svg> Default Live TV checkbox to enabled to reflect Jellyfin/Emby default</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8723d1c</div>
+                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#DD2E44" d="M11.626 7.488c-.112.112-.197.247-.268.395l-.008-.008L.134 33.141l.011.011c-.208.403.14 1.223.853 1.937.713.713 1.533 1.061 1.936.853l.01.01L28.21 24.735l-.008-.009c.147-.07.282-.155.395-.269 1.562-1.562-.971-6.627-5.656-11.313-4.687-4.686-9.752-7.218-11.315-5.656z"/><path fill="#EA596E" d="M13 12L.416 32.506l-.282.635.011.011c-.208.403.14 1.223.853 1.937.232.232.473.408.709.557L17 17l-4-5z"/><path fill="#A0041E" d="M23.012 13.066c4.67 4.672 7.263 9.652 5.789 11.124-1.473 1.474-6.453-1.118-11.126-5.788-4.671-4.672-7.263-9.654-5.79-11.127 1.474-1.473 6.454 1.119 11.127 5.791z"/><path fill="#AA8DD8" d="M18.59 13.609c-.199.161-.459.245-.734.215-.868-.094-1.598-.396-2.109-.873-.541-.505-.808-1.183-.735-1.862.128-1.192 1.324-2.286 3.363-2.066.793.085 1.147-.17 1.159-.292.014-.121-.277-.446-1.07-.532-.868-.094-1.598-.396-2.11-.873-.541-.505-.809-1.183-.735-1.862.13-1.192 1.325-2.286 3.362-2.065.578.062.883-.057 1.012-.134.103-.063.144-.123.148-.158.012-.121-.275-.446-1.07-.532-.549-.06-.947-.552-.886-1.102.059-.549.55-.946 1.101-.886 2.037.219 2.973 1.542 2.844 2.735-.13 1.194-1.325 2.286-3.364 2.067-.578-.063-.88.057-1.01.134-.103.062-.145.123-.149.157-.013.122.276.446 1.071.532 2.037.22 2.973 1.542 2.844 2.735-.129 1.192-1.324 2.286-3.362 2.065-.578-.062-.882.058-1.012.134-.104.064-.144.124-.148.158-.013.121.276.446 1.07.532.548.06.947.553.886 1.102-.028.274-.167.511-.366.671z"/><path fill="#77B255" d="M30.661 22.857c1.973-.557 3.334.323 3.658 1.478.324 1.154-.378 2.615-2.35 3.17-.77.216-1.001.584-.97.701.034.118.425.312 1.193.095 1.972-.555 3.333.325 3.657 1.479.326 1.155-.378 2.614-2.351 3.17-.769.216-1.001.585-.967.702.033.117.423.311 1.192.095.53-.149 1.084.16 1.233.691.148.532-.161 1.084-.693 1.234-1.971.555-3.333-.323-3.659-1.479-.324-1.154.379-2.613 2.353-3.169.77-.217 1.001-.584.967-.702-.032-.117-.422-.312-1.19-.096-1.974.556-3.334-.322-3.659-1.479-.325-1.154.378-2.613 2.351-3.17.768-.215.999-.585.967-.701-.034-.118-.423-.312-1.192-.096-.532.15-1.083-.16-1.233-.691-.149-.53.161-1.082.693-1.232z"/><path fill="#AA8DD8" d="M23.001 20.16c-.294 0-.584-.129-.782-.375-.345-.432-.274-1.061.156-1.406.218-.175 5.418-4.259 12.767-3.208.547.078.927.584.849 1.131-.078.546-.58.93-1.132.848-6.493-.922-11.187 2.754-11.233 2.791-.186.148-.406.219-.625.219z"/><path fill="#77B255" d="M5.754 16c-.095 0-.192-.014-.288-.042-.529-.159-.829-.716-.67-1.245 1.133-3.773 2.16-9.794.898-11.364-.141-.178-.354-.353-.842-.316-.938.072-.849 2.051-.848 2.071.042.551-.372 1.031-.922 1.072-.559.034-1.031-.372-1.072-.923-.103-1.379.326-4.035 2.692-4.214 1.056-.08 1.933.287 2.552 1.057 2.371 2.951-.036 11.506-.542 13.192-.13.433-.528.712-.958.712z"/><circle fill="#5C913B" cx="25.5" cy="9.5" r="1.5"/><circle fill="#9266CC" cx="2" cy="18" r="2"/><circle fill="#5C913B" cx="32.5" cy="19.5" r="1.5"/><circle fill="#5C913B" cx="23.5" cy="31.5" r="1.5"/><circle fill="#FFCC4D" cx="28" cy="4" r="2"/><circle fill="#FFCC4D" cx="32.5" cy="8.5" r="1.5"/><circle fill="#FFCC4D" cx="29.5" cy="12.5" r="1.5"/><circle fill="#FFCC4D" cx="7.5" cy="23.5" r="1.5"/></svg> Live TV can now be enabled/disabled for Jellyfin/Emby invites</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#382 Live TV Access for Jellyfin/Emby invites</span>
+                                        Merged
+                                        <span class="issue">#382 feat: Live TV Access for Jellyfin/Emby invites</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -501,8 +555,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/live-tv-access</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1cba8c3</div>
-                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/><g fill="#C1694F"><circle cx="4.389" cy="25.778" r=".972"/><circle cx="7.306" cy="28.694" r=".972"/><circle cx="10.222" cy="31.611" r=".972"/><circle cx="7.306" cy="22.861" r=".972"/><circle cx="10.222" cy="25.778" r=".972"/><circle cx="13.139" cy="28.694" r=".972"/><path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/><circle cx="25.778" cy="10.222" r=".972"/><circle cx="28.694" cy="13.139" r=".972"/><circle cx="25.778" cy="4.389" r=".972"/><circle cx="28.694" cy="7.306" r=".972"/><circle cx="31.611" cy="10.222" r=".972"/></g><path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/><path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/></svg> Default Live TV checkbox to enabled to reflect Jellyfin/Emby default</div>
+                                        <div class="sha">#1b94a6e</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/><path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/><path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/><path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/></svg> Corrected Live TV for Jellyfin</div>
                                     </div>
                                 </div>
                             </section>
@@ -511,275 +565,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">wizarrrr/wizarr</span>
+                                        Opened
+                                        <span class="issue">#382 Live TV Access for Jellyfin/Emby invites</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/live-tv-access</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8723d1c</div>
-                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#DD2E44" d="M11.626 7.488c-.112.112-.197.247-.268.395l-.008-.008L.134 33.141l.011.011c-.208.403.14 1.223.853 1.937.713.713 1.533 1.061 1.936.853l.01.01L28.21 24.735l-.008-.009c.147-.07.282-.155.395-.269 1.562-1.562-.971-6.627-5.656-11.313-4.687-4.686-9.752-7.218-11.315-5.656z"/><path fill="#EA596E" d="M13 12L.416 32.506l-.282.635.011.011c-.208.403.14 1.223.853 1.937.232.232.473.408.709.557L17 17l-4-5z"/><path fill="#A0041E" d="M23.012 13.066c4.67 4.672 7.263 9.652 5.789 11.124-1.473 1.474-6.453-1.118-11.126-5.788-4.671-4.672-7.263-9.654-5.79-11.127 1.474-1.473 6.454 1.119 11.127 5.791z"/><path fill="#AA8DD8" d="M18.59 13.609c-.199.161-.459.245-.734.215-.868-.094-1.598-.396-2.109-.873-.541-.505-.808-1.183-.735-1.862.128-1.192 1.324-2.286 3.363-2.066.793.085 1.147-.17 1.159-.292.014-.121-.277-.446-1.07-.532-.868-.094-1.598-.396-2.11-.873-.541-.505-.809-1.183-.735-1.862.13-1.192 1.325-2.286 3.362-2.065.578.062.883-.057 1.012-.134.103-.063.144-.123.148-.158.012-.121-.275-.446-1.07-.532-.549-.06-.947-.552-.886-1.102.059-.549.55-.946 1.101-.886 2.037.219 2.973 1.542 2.844 2.735-.13 1.194-1.325 2.286-3.364 2.067-.578-.063-.88.057-1.01.134-.103.062-.145.123-.149.157-.013.122.276.446 1.071.532 2.037.22 2.973 1.542 2.844 2.735-.129 1.192-1.324 2.286-3.362 2.065-.578-.062-.882.058-1.012.134-.104.064-.144.124-.148.158-.013.121.276.446 1.07.532.548.06.947.553.886 1.102-.028.274-.167.511-.366.671z"/><path fill="#77B255" d="M30.661 22.857c1.973-.557 3.334.323 3.658 1.478.324 1.154-.378 2.615-2.35 3.17-.77.216-1.001.584-.97.701.034.118.425.312 1.193.095 1.972-.555 3.333.325 3.657 1.479.326 1.155-.378 2.614-2.351 3.17-.769.216-1.001.585-.967.702.033.117.423.311 1.192.095.53-.149 1.084.16 1.233.691.148.532-.161 1.084-.693 1.234-1.971.555-3.333-.323-3.659-1.479-.324-1.154.379-2.613 2.353-3.169.77-.217 1.001-.584.967-.702-.032-.117-.422-.312-1.19-.096-1.974.556-3.334-.322-3.659-1.479-.325-1.154.378-2.613 2.351-3.17.768-.215.999-.585.967-.701-.034-.118-.423-.312-1.192-.096-.532.15-1.083-.16-1.233-.691-.149-.53.161-1.082.693-1.232z"/><path fill="#AA8DD8" d="M23.001 20.16c-.294 0-.584-.129-.782-.375-.345-.432-.274-1.061.156-1.406.218-.175 5.418-4.259 12.767-3.208.547.078.927.584.849 1.131-.078.546-.58.93-1.132.848-6.493-.922-11.187 2.754-11.233 2.791-.186.148-.406.219-.625.219z"/><path fill="#77B255" d="M5.754 16c-.095 0-.192-.014-.288-.042-.529-.159-.829-.716-.67-1.245 1.133-3.773 2.16-9.794.898-11.364-.141-.178-.354-.353-.842-.316-.938.072-.849 2.051-.848 2.071.042.551-.372 1.031-.922 1.072-.559.034-1.031-.372-1.072-.923-.103-1.379.326-4.035 2.692-4.214 1.056-.08 1.933.287 2.552 1.057 2.371 2.951-.036 11.506-.542 13.192-.13.433-.528.712-.958.712z"/><circle fill="#5C913B" cx="25.5" cy="9.5" r="1.5"/><circle fill="#9266CC" cx="2" cy="18" r="2"/><circle fill="#5C913B" cx="32.5" cy="19.5" r="1.5"/><circle fill="#5C913B" cx="23.5" cy="31.5" r="1.5"/><circle fill="#FFCC4D" cx="28" cy="4" r="2"/><circle fill="#FFCC4D" cx="32.5" cy="8.5" r="1.5"/><circle fill="#FFCC4D" cx="29.5" cy="12.5" r="1.5"/><circle fill="#FFCC4D" cx="7.5" cy="23.5" r="1.5"/></svg> Live TV can now be enabled/disabled for Jellyfin/Emby invites</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feature/live-tv-access</span>
-                                        in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2371 commits in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/live-tv-access</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7ad27f9</div>
-                                        <div class="message">Refactored imports and fixed dependencies
-
-- Refactored imports in `formkit.config.ts`, `main.ts`, `join/router/index.ts`
-- Fixed dependencies in `formkit.config.ts`, `modal.ts`, `dashboard.ts`, `theme.ts`, `plexAuth.ts`, and `widgets.ts`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b4d85f</div>
-                                        <div class="message">feat: Add Carousel component for Join module
-
-- Added a new Carousel component to the join module.
-- The Carousel component allows for displaying multiple views with transitions.
-- Each view is defined by a component that can be lazy-loaded.
-- The Carousel component includes options for default view, default height, and a "please wait" message.
-- The component dynamically adjusts its height based on the active view.
-- The Carousel component is initialized with elements and options.
-- The active view can be changed programmatically.
-- The component supports navigation between views.
-- The component includes callbacks for handling view changes and updating the title.
-- The component includes CSS transitions for smooth animations.
-- The component includes a loading spinner and a message to display while waiting for views to load.
-
-Closes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a42e64</div>
-                                        <div class="message">feat: Add API Keys functionality
-
-This commit adds functionality for handling API Keys. It includes the following changes:
-
-- Added `apikeys_api` namespace to the API routes
-- Implemented routes for getting all API Keys, creating a new API Key, getting a single API Key, and deleting a single API Key
-- Created a new model `APIKeys` to handle API Key data in the database
-- Updated the `security.py` file to check if a token is related to an API Key when verifying if it is revoked
-- Added new components `APIKeyItem`, `APIKeyList`, and `APIKeyForm` to support displaying API Keys and creating new ones
-- Added new API Key-related Vue files to the frontend:
-  - `APIKeyList.vue` displays a list of API Keys
-  - `APIKeyItem.vue` represents an individual API Key item in the list
-  - `APIKeyForm.vue` allows users to create a new API Key
-
-Related: #1234</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad3d4de</div>
-                                        <div class="message">Update FUNDING.yml
-
-As I am no longer the main developer for this project, it doesn't seem fair to be taking further donations relating to it! :)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad73f3e</div>
-                                        <div class="message">Fix webhook form data not including all keys
-
-The code change includes a fix to ensure that all keys from the webhook object are included in the form data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5952d6</div>
-                                        <div class="message">feat: Add manage webhooks functionality
-
-This commit adds a new route and component in the settings module to manage webhooks. The "Manage Webhooks" page allows users to configure webhooks. The commit also introduces a new store called "webhooks" that handles the management of webhooks. It includes actions to get the existing webhooks, create a new webhook, and delete a webhook. The store keeps track of the webhooks in the state and updates them based on the API responses. The commit also introduces types for webhooks in the API.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba66b2d</div>
-                                        <div class="message">Change scrollbar styles in the frontend
-
-- Delete `base.scss` file
-- Add `extend.scss` file with new scrollbar styles for Webkit-based browsers and IE, Edge, and Firefox
-- Update `main.scss` to import `extend.scss` instead of `base.scss`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e75e622</div>
-                                        <div class="message">Add webhooks API and send events
-
-- Added a new routes file for webhooks API.
-- Created endpoints for listing, creating, retrieving, and deleting webhooks.
-- Updated database models and created a new table for webhooks.
-- Implemented a helper function to run webhooks and send events.
-- Modified existing code to send "invitation_created", "invitation_deleted", "user_deleted", and "user_invited" events when appropriate.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61e9d8c</div>
-                                        <div class="message">feat: Add reset confirmation to Dashboard.vue
-
-This commit adds a confirmation dialog to the `resetLocalDashboard()` method in the `Dashboard.vue` file. The user is prompted with a confirmation message asking if they are sure they want to reset their dashboard. If the user confirms, the dashboard is reset, the grid is cleared, and the `isEditing` flag is set to false. If the user cancels, no changes are made. A toast message is displayed to indicate if the dashboard reset was successful or cancelled.
-
-feat: Add WebhookForm.vue component
-
-This commit adds the `WebhookForm.vue` component to handle the creation of webhooks. The component includes two form fields for the name and URL of the webhook. When the form is submitted, the `localCreateWebhook()` method is called, which triggers the `createWebhook()` action from the `useWebhookStore`. After creating the webhook, the form is closed.
-
-feat: Update ListItem.vue component
-
-This commit updates the `ListItem.vue` component by adding an overflow style to truncate long text in the title section. This prevents text from overflowing and improves the visual appearance of the component.
-
-feat: Add WebhookItem.vue component
-
-This commit adds the `WebhookItem.vue` component to display individual webhook items in the `WebhookList.vue` component. The component includes the webhook name, URL, and creation date. Two buttons are provided for editing and deleting webhooks, which trigger the `localDeleteWebhook()` method when clicked. A confirmation modal is displayed before deleting the webhook.
-
-feat: Add WebhookList.vue component
-
-This commit adds the `WebhookList.vue` component to display a list of webhooks. The component uses the `Draggable` component for draggable functionality and loops through the `webhooks` array to render individual `WebhookItem` components. If there are no webhooks, a placeholder message is shown.
-
-feat: Add Webhooks.vue page
-
-This commit adds the `Webhooks.vue` page to the settings module. The page includes the `WebhookList.vue` component and a floating button to create new webhooks. When the button is clicked, the `createWebhook()` method is triggered, which opens a modal with the `WebhookForm.vue` component to create a new webhook.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8d0e63</div>
-                                        <div class="message">Translated using Weblate (Swedish)
-
-Currently translated at 99.2% (136 of 137 strings)
-
-Translation: Wizarr/app
-Translate-URL: https://hosted.weblate.org/projects/wizarr/app/sv/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2d77b6</div>
-                                        <div class="message">refactor: Remove old modal functionality
-
-This commit removes the oldmodal.tsx file from the project, which contained deprecated code related to modal functionality. The file is no longer needed and has been deleted.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad047d1</div>
-                                        <div class="message">feat: Add jenesius-vue-modal package
-
-This commit adds the jenesius-vue-modal package as a dependency. The package has been updated to version 1.9.2. The package is required for widget modal functionality in the frontend.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a752636</div>
-                                        <div class="message">Add modal styling to main.scss
-
-- The changes include adding an import statement for the "modal.scss" file in "main.scss"
-- The "modal.scss" file is a new file that contains styles for the modal container
-- The styles for the modal container include setting the background color with opacity, adjusting the z-index, and setting the cursor behavior.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#572c843</div>
-                                        <div class="message">feat: Update SettingsButton.vue and ListItem.vue
-
-- In SettingsButton.vue, changed the router-link to a regular button and added a click handler.
-- Updated ListItem.vue to add a larger size to the icon.
-
-fix: Update InviteForm.vue and InvitationItem.vue
-
-- In InviteForm.vue, refactored the code to use a new_invitation object and append its keys and values to the form data.
-- In InvitationItem.vue, added a disabled state for the delete button and updated the deleteLocalInvitation method to toggle the disabled state.
-
-refactor: Update DefaultModal.vue
-
-- Removed the unused import statement for mount-vue-component.
-
-style: Update UserItem.vue
-
-- Updated the localDeleteUser method to display a toast message when a user is deleted.
-
-chore: Update Invitations.vue and About.vue
-
-- In Invitations.vue, replaced the modal creation with an openModal method call.
-- In About.vue, removed some unused code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d532f51</div>
-                                        <div class="message">feat: Update theme styles for panelWrapper, year, month, and dayCell components
-
-- Refactored the CSS for the panelWrapper, year, month, and dayCell components in the theme file.
-- Updated the background color, border color, and text color for these components.
-- Added hover styles for these components.
-
-This commit also includes the following changes:
-
-- Added a new file called ModalWrapper.tsx that defines a wrapper component for creating modals.
-- Renamed the oldmodal.tsx file to modal.tsx.
-- Created a new file called modal.ts that exports custom functions and types related to modals.
-- Updated the Modal global component configuration in the vuePluginModal.
-
-Co-authored-by: [Author Name] &lt;[email protected]&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a17887</div>
-                                        <div class="message">Refactor invitation creation and expiration logic
-
-- Creates an invitation in the database with specified details.
-- Refactors the code to handle expiration and duration values properly.
-- The `expires` and `duration` fields are converted to UTC datetime based on given values.
-- Prints the invitation details for debugging purposes.
-
-Changes to backend/app/models/wizarr/invitations.py and backend/helpers/universal.py files.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e5d2b7</div>
-                                        <div class="message">Refactor LanguageSelector and LanguageModal components
-
-- Simplify LanguageSelector component by removing unnecessary code.
-- Move the LanguageModal component from LanguageSelector to its own file.
-- Update the method in LanguageSelector to open the LanguageModal using a modal plugin.
-- Update the method in LanguageModal to emit 'close' event to its parent component.
-
-This change improves the organization and functionality of the language selector feature.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6caf28</div>
-                                        <div class="message">feat(useritem): add backup profile picture
-
-- Add backup profile picture to display when the user's profile picture fails to load.
-- The backup picture is generated using the user's username.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1f61db</div>
-                                        <div class="message">feat: Update ESLint settings and add new modal functionality
-
-- Updated ESLint settings to include additional file types and validate specific languages.
-- Added new modal functionality to display modals with customizable title, body, footer, and buttons.
-- The modal can be closed by clicking on the overlay or pressing the escape key.
-- The modal component can be created and destroyed programmatically using the `$modal.create` and `$modal.destroy` methods.
-- Added a confirm modal method that prompts the user with a title and message and returns a promise that resolves to a boolean value.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91196e8</div>
-                                        <div class="message">Translated using Weblate (Dutch)
-
-Currently translated at 68.6% (94 of 137 strings)
-
-Translation: Wizarr/app
-Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
-                                    </div>
+                                    <div> in <span class="repo">wizarrrr/wizarr</span></div>
+                                    <div>9 files changed <span class="code">++70 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -912,7 +707,7 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.6 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.29 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -931,7 +726,7 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
                                     <span class="prefix">Super</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 960 repositories</div>
+                                <div class="text">Starred 959 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1017,7 +812,7 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.98298298298297 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="153.13813813813815 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1040,9 +835,9 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 47.4k out of 190m repositories</span>
+                                    <span class="gh">ranked 47.4k out of 203m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 987 stars</div>
+                                <div class="text">Maintaining a repository with 988 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1319,7 +1114,7 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 190m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1410,7 +1205,7 @@ Translate-URL: https://hosted.weblate.org/projects/wizarr/app/nl/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2024, 21:34:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 22:34:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
