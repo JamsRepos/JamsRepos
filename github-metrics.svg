@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2001" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2354" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.01m added, 530k removed
+                                    1.72m added, 957k removed
                                 </div>
                             </section>
                             <section>
@@ -474,82 +474,578 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      tag
-                                        <span class="code">v4.2.0</span>
-                                        in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      tag
-                                        <span class="code">v4.3.0</span>
-                                        in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v4.3.0</span>
-                                        in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v4.2.0</span>
-                                        in
-                                        <span class="repo">wizarrrr/wizarr</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 23 commits in
                                         <span class="repo">wizarrrr/wizarr</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refactor/discord-releases</span></div>
+                                    <div>on branch <span class="code">beta</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0f590d</div>
-                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/><path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/><circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/><path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/><path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/><path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/></svg> trigger release</div>
+                                        <div class="sha">#0e36e02</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4de24d4</div>
+                                        <div class="message">
+                                            chore(release): 4.1.0
+
+## [4.1.0](https://github.com/wizarrrr/wizarr/compare/v4.0.0...v4.1.0) (2024-05-05)
+
+### New Features
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            Replaced the default homepage with the invite interface ([9c6ea38](https://github.com/wizarrrr/wizarr/commit/9c6ea387984dcfa750842c7ad578b3835f43c1f9))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            Ability to specify whether a user displays on login page ([#397](https://github.com/wizarrrr/wizarr/issues/397)) ([a1380e0](https://github.com/wizarrrr/wizarr/commit/a1380e0d5d7e6e429f591392e8e21fda220c3d83))
+
+### Bug Fixes
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Change live_tv to a boolean through the migration script ([00372cc](https://github.com/wizarrrr/wizarr/commit/00372cccb9365aa6cdd89bc22c4236eb800cc2ea))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Live TV boolean changes to True by default ([e41b935](https://github.com/wizarrrr/wizarr/commit/e41b935c612ea70ed29ab7b97ee3b59a1878f145))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Potential fix for white pages and pages caching ([65feec9](https://github.com/wizarrrr/wizarr/commit/65feec92c9cfe43d67ea8a47fd77d20b26aa7098))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/>
+                                                <path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/>
+                                                <path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/>
+                                                <path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/>
+                                            </svg>
+                                            remove extra return statement ([331be20](https://github.com/wizarrrr/wizarr/commit/331be20b6cbdd9c42eac3a785b562dc068c1a8a9))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/>
+                                                <g fill="#C1694F">
+                                                    <circle cx="4.389" cy="25.778" r=".972"/>
+                                                    <circle cx="7.306" cy="28.694" r=".972"/>
+                                                    <circle cx="10.222" cy="31.611" r=".972"/>
+                                                    <circle cx="7.306" cy="22.861" r=".972"/>
+                                                    <circle cx="10.222" cy="25.778" r=".972"/>
+                                                    <circle cx="13.139" cy="28.694" r=".972"/>
+                                                    <path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/>
+                                                    <circle cx="25.778" cy="10.222" r=".972"/>
+                                                    <circle cx="28.694" cy="13.139" r=".972"/>
+                                                    <circle cx="25.778" cy="4.389" r=".972"/>
+                                                    <circle cx="28.694" cy="7.306" r=".972"/>
+                                                    <circle cx="31.611" cy="10.222" r=".972"/>
+                                                </g>
+                                                <path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/>
+                                                <path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/>
+                                            </svg>
+                                            cast current version as string ([4490590](https://github.com/wizarrrr/wizarr/commit/4490590657f4374d05914f5105863ea1aa46275b))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/>
+                                                <g fill="#C1694F">
+                                                    <circle cx="4.389" cy="25.778" r=".972"/>
+                                                    <circle cx="7.306" cy="28.694" r=".972"/>
+                                                    <circle cx="10.222" cy="31.611" r=".972"/>
+                                                    <circle cx="7.306" cy="22.861" r=".972"/>
+                                                    <circle cx="10.222" cy="25.778" r=".972"/>
+                                                    <circle cx="13.139" cy="28.694" r=".972"/>
+                                                    <path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/>
+                                                    <circle cx="25.778" cy="10.222" r=".972"/>
+                                                    <circle cx="28.694" cy="13.139" r=".972"/>
+                                                    <circle cx="25.778" cy="4.389" r=".972"/>
+                                                    <circle cx="28.694" cy="7.306" r=".972"/>
+                                                    <circle cx="31.611" cy="10.222" r=".972"/>
+                                                </g>
+                                                <path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/>
+                                                <path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/>
+                                            </svg>
+                                            Disabled access to Live TV Management for Jellyfin/Emby ([a603d56](https://github.com/wizarrrr/wizarr/commit/a603d56a9ae29c486643e3d4d4abf0038b1fff6e))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/>
+                                                <g fill="#C1694F">
+                                                    <circle cx="4.389" cy="25.778" r=".972"/>
+                                                    <circle cx="7.306" cy="28.694" r=".972"/>
+                                                    <circle cx="10.222" cy="31.611" r=".972"/>
+                                                    <circle cx="7.306" cy="22.861" r=".972"/>
+                                                    <circle cx="10.222" cy="25.778" r=".972"/>
+                                                    <circle cx="13.139" cy="28.694" r=".972"/>
+                                                    <path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/>
+                                                    <circle cx="25.778" cy="10.222" r=".972"/>
+                                                    <circle cx="28.694" cy="13.139" r=".972"/>
+                                                    <circle cx="25.778" cy="4.389" r=".972"/>
+                                                    <circle cx="28.694" cy="7.306" r=".972"/>
+                                                    <circle cx="31.611" cy="10.222" r=".972"/>
+                                                </g>
+                                                <path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/>
+                                                <path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/>
+                                            </svg>
+                                            Fixed plex profile pictures erroring out when Plex Home users are present ([a1c3571](https://github.com/wizarrrr/wizarr/commit/a1c3571b621d0e14d4e75562983622d51620e309))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/>
+                                                <g fill="#C1694F">
+                                                    <circle cx="4.389" cy="25.778" r=".972"/>
+                                                    <circle cx="7.306" cy="28.694" r=".972"/>
+                                                    <circle cx="10.222" cy="31.611" r=".972"/>
+                                                    <circle cx="7.306" cy="22.861" r=".972"/>
+                                                    <circle cx="10.222" cy="25.778" r=".972"/>
+                                                    <circle cx="13.139" cy="28.694" r=".972"/>
+                                                    <path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/>
+                                                    <circle cx="25.778" cy="10.222" r=".972"/>
+                                                    <circle cx="28.694" cy="13.139" r=".972"/>
+                                                    <circle cx="25.778" cy="4.389" r=".972"/>
+                                                    <circle cx="28.694" cy="7.306" r=".972"/>
+                                                    <circle cx="31.611" cy="10.222" r=".972"/>
+                                                </g>
+                                                <path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/>
+                                                <path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/>
+                                            </svg>
+                                            Import error for software_lifecycle ([f6f9ef9](https://github.com/wizarrrr/wizarr/commit/f6f9ef9fecb70c3a16f2cf967bbbbaa5a6887b14))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/>
+                                                <path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/>
+                                                <circle cx="9" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="9" cy="31" r="2" fill="#99AAB5"/>
+                                                <circle cx="27" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="27" cy="31" r="2" fill="#99AAB5"/>
+                                                <path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/>
+                                                <path fill="#55ACEE" d="M8 10h5v7H4z"/>
+                                                <path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/>
+                                                <path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/>
+                                                <path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/>
+                                            </svg>
+                                            Change migration script to a boolean for hide_user ([dec8103](https://github.com/wizarrrr/wizarr/commit/dec810338492a9231fc87041099d2439d21d1160))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/>
+                                                <path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/>
+                                                <circle cx="9" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="9" cy="31" r="2" fill="#99AAB5"/>
+                                                <circle cx="27" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="27" cy="31" r="2" fill="#99AAB5"/>
+                                                <path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/>
+                                                <path fill="#55ACEE" d="M8 10h5v7H4z"/>
+                                                <path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/>
+                                                <path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/>
+                                                <path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/>
+                                            </svg>
+                                            Changed order of Emby user password creation ([fd52649](https://github.com/wizarrrr/wizarr/commit/fd52649108911d52f0560c08e8e4f5ad9c70acb4))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/>
+                                                <path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/>
+                                                <circle cx="9" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="9" cy="31" r="2" fill="#99AAB5"/>
+                                                <circle cx="27" cy="31" r="4" fill="#292F33"/>
+                                                <circle cx="27" cy="31" r="2" fill="#99AAB5"/>
+                                                <path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/>
+                                                <path fill="#55ACEE" d="M8 10h5v7H4z"/>
+                                                <path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/>
+                                                <path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/>
+                                                <path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/>
+                                            </svg>
+                                            Solved issue with the routes clashing ([c3af54e](https://github.com/wizarrrr/wizarr/commit/c3af54ef5e53418691d656d6a81752bd82833a0a))
+* **sentry:**
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            set release version for proper tracking ([0f4d08c](https://github.com/wizarrrr/wizarr/commit/0f4d08c3afa0c991543904ec3a248032c8fadef1))
+
+### Chores
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#C1694F" d="M2 15.375S0 11.75 0 7.75s3.786-3.542 5-2.438c1.292 1.174 3 4.938 3 4.938l-1 .688s-.833-1.51-1.833-2.823-2.75-.943-2.75 1.057S4 15 4 15l-2 .375zm32 0s2-3.625 2-7.625-3.786-3.542-5-2.438c-1.292 1.174-3 4.938-3 4.938l1 .688s.833-1.51 1.833-2.823 2.75-.943 2.75 1.057S32 15 32 15l2 .375z"/>
+                                                <path fill="#C1694F" d="M33.238 16.762C33.238 21.496 30.381 32 18 32S2.762 21.496 2.762 16.762C2.762 13.905 8.532 12 18 12s15.238 1.905 15.238 4.762z"/>
+                                                <path fill="#D99E82" d="M35 13.556C35 20 28.041 22 18 22S1 20 1 13.556C1 10.222 7.438 8 18 8s17 2.222 17 5.556z"/>
+                                                <ellipse fill="#662113" cx="18" cy="13.556" rx="15.938" ry="4.444"/>
+                                                <path d="M17 27.99c-3.646-.051-6.853-.387-9.415-1.138 1.007 1.094 2.262 2.045 3.784 2.765 1.717.226 3.608.341 5.631.37V27.99zm2 0v1.998c2.022-.029 3.913-.143 5.631-.37 1.522-.721 2.777-1.671 3.784-2.765-2.562.749-5.769 1.085-9.415 1.137zm-9.87-4.766c-1.77-.38-3.312-.906-4.55-1.628.282.861.648 1.728 1.11 2.576 1.299.572 2.848.984 4.583 1.276-.451-.727-.828-1.475-1.143-2.224zM18 26c1.875 0 3.64-.071 5.275-.226.458-.697.845-1.417 1.173-2.141-1.953.249-4.11.367-6.448.367-2.442 0-4.684-.129-6.703-.403.327.727.716 1.448 1.174 2.148 1.705.174 3.555.255 5.529.255zm8.61-2.724c-.317.746-.695 1.492-1.147 2.215 1.844-.293 3.483-.718 4.848-1.32.462-.848.828-1.715 1.11-2.576-1.299.758-2.932 1.299-4.811 1.681z" fill="#D99E82"/>
+                                                <path d="M17 12.594c-3.646.051-6.853.387-9.415 1.138 1.007-1.094 2.262-2.045 3.784-2.765 1.717-.226 3.608-.341 5.631-.37v1.997zm2 0v-1.998c2.022.029 3.913.143 5.631.37 1.522.721 2.777 1.671 3.784 2.765-2.562-.75-5.769-1.086-9.415-1.137zm-9.822 4.662c.306-.714.665-1.427 1.095-2.12-1.716.288-3.247.695-4.537 1.257.99.332 2.15.623 3.442.863zM18 14.584c1.875 0 3.64.071 5.275.226.458.697.845 1.417 1.173 2.141-1.953-.249-4.109-.367-6.448-.367-2.442 0-4.684.129-6.703.403.327-.727.716-1.448 1.174-2.148 1.705-.175 3.555-.255 5.529-.255zm7.463.508c.449.719.825 1.46 1.14 2.201 1.378-.247 2.617-.55 3.661-.9-1.356-.591-2.977-1.011-4.801-1.301z" fill="#8A4633"/>
+                                            </svg>
+                                            Changed request service URL field to correctly reflect the service ([553c78f](https://github.com/wizarrrr/wizarr/commit/553c78fa59ba238c2e87d0b569c196a8c6f8bc31))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#C1694F" d="M2 15.375S0 11.75 0 7.75s3.786-3.542 5-2.438c1.292 1.174 3 4.938 3 4.938l-1 .688s-.833-1.51-1.833-2.823-2.75-.943-2.75 1.057S4 15 4 15l-2 .375zm32 0s2-3.625 2-7.625-3.786-3.542-5-2.438c-1.292 1.174-3 4.938-3 4.938l1 .688s.833-1.51 1.833-2.823 2.75-.943 2.75 1.057S32 15 32 15l2 .375z"/>
+                                                <path fill="#C1694F" d="M33.238 16.762C33.238 21.496 30.381 32 18 32S2.762 21.496 2.762 16.762C2.762 13.905 8.532 12 18 12s15.238 1.905 15.238 4.762z"/>
+                                                <path fill="#D99E82" d="M35 13.556C35 20 28.041 22 18 22S1 20 1 13.556C1 10.222 7.438 8 18 8s17 2.222 17 5.556z"/>
+                                                <ellipse fill="#662113" cx="18" cy="13.556" rx="15.938" ry="4.444"/>
+                                                <path d="M17 27.99c-3.646-.051-6.853-.387-9.415-1.138 1.007 1.094 2.262 2.045 3.784 2.765 1.717.226 3.608.341 5.631.37V27.99zm2 0v1.998c2.022-.029 3.913-.143 5.631-.37 1.522-.721 2.777-1.671 3.784-2.765-2.562.749-5.769 1.085-9.415 1.137zm-9.87-4.766c-1.77-.38-3.312-.906-4.55-1.628.282.861.648 1.728 1.11 2.576 1.299.572 2.848.984 4.583 1.276-.451-.727-.828-1.475-1.143-2.224zM18 26c1.875 0 3.64-.071 5.275-.226.458-.697.845-1.417 1.173-2.141-1.953.249-4.11.367-6.448.367-2.442 0-4.684-.129-6.703-.403.327.727.716 1.448 1.174 2.148 1.705.174 3.555.255 5.529.255zm8.61-2.724c-.317.746-.695 1.492-1.147 2.215 1.844-.293 3.483-.718 4.848-1.32.462-.848.828-1.715 1.11-2.576-1.299.758-2.932 1.299-4.811 1.681z" fill="#D99E82"/>
+                                                <path d="M17 12.594c-3.646.051-6.853.387-9.415 1.138 1.007-1.094 2.262-2.045 3.784-2.765 1.717-.226 3.608-.341 5.631-.37v1.997zm2 0v-1.998c2.022.029 3.913.143 5.631.37 1.522.721 2.777 1.671 3.784 2.765-2.562-.75-5.769-1.086-9.415-1.137zm-9.822 4.662c.306-.714.665-1.427 1.095-2.12-1.716.288-3.247.695-4.537 1.257.99.332 2.15.623 3.442.863zM18 14.584c1.875 0 3.64.071 5.275.226.458.697.845 1.417 1.173 2.141-1.953-.249-4.109-.367-6.448-.367-2.442 0-4.684.129-6.703.403.327-.727.716-1.448 1.174-2.148 1.705-.175 3.555-.255 5.529-.255zm7.463.508c.449.719.825 1.46 1.14 2.201 1.378-.247 2.617-.55 3.661-.9-1.356-.591-2.977-1.011-4.801-1.301z" fill="#8A4633"/>
+                                            </svg>
+                                            Remove version getter as not needed ([50957bc](https://github.com/wizarrrr/wizarr/commit/50957bcd0ff950a85e5a8d781fe14e8da42f5c7b))
+* **release:** 4.1.0-beta.1 ([b4d5a34](https://github.com/wizarrrr/wizarr/commit/b4d5a34a1f1e93ab41e3420d367754c6b5e1db5a)), closes [#397](https://github.com/wizarrrr/wizarr/issues/397)
+
+### Documentation
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#553788" d="M15 31c0 2.209-.791 4-3 4H5c-4 0-4-14 0-14h7c2.209 0 3 1.791 3 4v6z"/>
+                                                <path fill="#9266CC" d="M34 33h-1V23h1c.553 0 1-.447 1-1s-.447-1-1-1H10c-4 0-4 14 0 14h24c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M34.172 33H11c-2 0-2-10 0-10h23.172c1.104 0 1.104 10 0 10z"/>
+                                                <path fill="#99AAB5" d="M11.5 25h23.35c-.135-1.175-.36-2-.678-2H11c-1.651 0-1.938 6.808-.863 9.188C9.745 29.229 10.199 25 11.5 25z"/>
+                                                <path fill="#269" d="M12 8c0 2.209-1.791 4-4 4H4C0 12 0 1 4 1h4c2.209 0 4 1.791 4 4v3z"/>
+                                                <path fill="#55ACEE" d="M31 10h-1V3h1c.553 0 1-.447 1-1s-.447-1-1-1H7C3 1 3 12 7 12h24c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M31.172 10H8c-2 0-2-7 0-7h23.172c1.104 0 1.104 7 0 7z"/>
+                                                <path fill="#99AAB5" d="M8 5h23.925c-.114-1.125-.364-2-.753-2H8C6.807 3 6.331 5.489 6.562 7.5 6.718 6.142 7.193 5 8 5z"/>
+                                                <path fill="#F4900C" d="M20 17c0 2.209-1.791 4-4 4H6c-4 0-4-9 0-9h10c2.209 0 4 1.791 4 4v1z"/>
+                                                <path fill="#FFAC33" d="M35 19h-1v-5h1c.553 0 1-.447 1-1s-.447-1-1-1H15c-4 0-4 9 0 9h20c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M35.172 19H16c-2 0-2-5 0-5h19.172c1.104 0 1.104 5 0 5z"/>
+                                                <path fill="#99AAB5" d="M16 16h19.984c-.065-1.062-.334-2-.812-2H16c-1.274 0-1.733 2.027-1.383 3.5.198-.839.657-1.5 1.383-1.5z"/>
+                                            </svg>
+                                            removed v3 mentions from root readme ([d7a4495](https://github.com/wizarrrr/wizarr/commit/d7a44950563139106e18e81ea433f654852b62af))
+
+### Code Refactoring
+
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
+                                            </svg>
+                                            Change the admin login to reflect the new homepage ([549b3de](https://github.com/wizarrrr/wizarr/commit/549b3def461fdb07075a36a88f44ed1f198dc74e))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
+                                            </svg>
+                                            Cleanup old deprecated code ([fa56308](https://github.com/wizarrrr/wizarr/commit/fa56308bbb428f0c117a738660c94a81510fd1b8))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
+                                            </svg>
+                                            Removed ability to fetch profile picture from media servers ([e3ab547](https://github.com/wizarrrr/wizarr/commit/e3ab5475e43388fca753128e00d3722b2f735181))
+*
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#F4900C" d="M29.879 33.879C31.045 35.045 32.9 35.1 34 34s1.045-2.955-.121-4.121L12.121 8.121C10.955 6.955 9.1 6.9 8 8s-1.045 2.955.121 4.121l21.758 21.758z"/>
+                                                <path fill="#66757F" d="M22 3s-6-3-11 2l-7 7s-1-1-2 0l-1 1s-1 1 0 2l4 4s1 1 2 0l1-1s1-1 0-2l-.078-.078c.77-.743 1.923-1.5 3.078-.922l4-4s-1-3 1-5 3-2 5-2 1-1 1-1z"/>
+                                            </svg>
+                                            Changed profile picture logic for media servers ([f1f94e1](https://github.com/wizarrrr/wizarr/commit/f1f94e1e64c0b49c73a037072387b9dbbf6eefa6))
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e28bf5</div>
+                                        <div class="message">Merge pull request #410 from wizarrrr/beta
+
+v4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c913942</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#F4900C" d="M35.676 18.625c.057.794.011 5.907.006 6.093-.004.139-.013.279-.026.422-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.656 22.827.641 19.312c-.233-.807-.324-1.562-.294-2.267.011-.256-.141-5.031.035-6.169.338-2.189 35.008 3.795 35.294 7.749z"/><path fill="#FFCC4D" d="M4.718 4.856c3.5-2.125 8.964-2.286 12.5 1.25 3 3 4.243 3.843 9.243 4.843s9.632 3.532 9.194 8.094c-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.655 16.73.64 13.215c-1.109-3.842.996-6.487 4.078-8.359z"/><g fill="#FFAC33"><circle cx="12.513" cy="14.106" r="1.5"/><circle cx="29.013" cy="25.794" r="1"/><circle cx="17.013" cy="24.106" r="1"/><circle cx="24.513" cy="24.794" r="1.5"/><circle cx="31.825" cy="21.606" r="1.5"/><circle cx="29.013" cy="18.419" r="1"/><circle cx="25.013" cy="20.356" r="1"/><circle cx="19.513" cy="21.356" r="1"/><path d="M14.013 20.606c0-.828-.672-1.5-1.5-1.5-.496 0-.933.244-1.206.616.074.067.155.127.224.197.598.598 1.192 1.258 1.806 1.939.406-.268.676-.728.676-1.252z"/><circle cx="9.575" cy="16.419" r="1"/><circle cx="16.013" cy="17.419" r="1"/><circle cx="24.513" cy="13.606" r="1.5"/><circle cx="21.013" cy="17.419" r="1.5"/><circle cx="12.013" cy="10.106" r="1"/><circle cx="20.513" cy="11.106" r="1"/><circle cx="14.513" cy="7.856" r="1"/><circle cx="7.575" cy="12.606" r="1"/><circle cx="6.013" cy="6.856" r="1"/><circle cx="28.575" cy="14.106" r="1"/><circle cx="33.325" cy="17.419" r="1"/><circle cx="3.263" cy="10.606" r="1.5"/><circle cx="10.575" cy="5.856" r="1.5"/><circle cx="16.513" cy="11.106" r="1.5"/><path d="M19.513 26.106c-.408 0-.778.164-1.048.429.77.486 1.61.908 2.531 1.243.007-.057.017-.113.017-.172 0-.828-.672-1.5-1.5-1.5zm-14.75-10.5c0-.552-.448-1-1-1-.542 0-.978.433-.994.971.491.288 1.034.549 1.615.795.225-.184.379-.452.379-.766z"/></g></svg> Fixed formatting with sematic release commit names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82d4cf5</div>
+                                        <div class="message">
+                                            perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            API Endpoint Optimisation (#409)
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            Optimised API Keys store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#939598" d="M0 34h36v2H0z"/>
+                                                <path fill="#BCBEC0" d="M3 35h33V8S7 9 0 23.999c-2.115 4.531 6 6 6 6L3 35z"/>
+                                                <path fill="#3B88C3" d="M23 18L8 25H-.31C-.894 28.748 6 29.999 6 29.999L3 35h33V15.29L23 18z"/>
+                                                <path fill="#231F20" d="M14 35l2-3h20v3z"/>
+                                                <path fill="#E6E7E8" d="M36 14.142c-4.347.358-13.388 1.62-19.581 6.044-5.603 4.002-11.877 3.899-16.033 3.829l-.39-.006c-.347.748-.411 1.41-.283 1.998.214.003.411.004.64.008.553.009 1.155.019 1.799.019 4.185 0 10.108-.42 15.429-4.221 5.23-3.735 13.453-5.241 18.419-5.672v-1.999z"/>
+                                                <path fill="#A7A9AC" d="M12 16l3.878-4.929C20.727 9.132 29 8.02 36 8.02v2C29 10.019 18 12 12 16z"/>
+                                                <path fill="#58595B" d="M3.095 19.465c1.672-.392 3.617-.723 5.44-1.65C18 13 19.008 10.017 19 10c-7 0-12 4-15.905 9.465z"/>
+                                                <path fill="#269" d="M6 29.999L36 30v-2H1.113C2.988 29.452 6 29.999 6 29.999z"/>
+                                                <path fill="#FFE8B6" d="M3.549 22.145c.47.034 1.013.019 1.591-.06 1.642-.222 2.913-.846 2.839-1.394-.073-.541-1.435-.803-3.052-.594-.648.632-1.12 1.326-1.378 2.048z"/>
+                                            </svg>
+                                            Optimised Invitations store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            Optimised Sessions store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#99AAB5" d="M6.5 24C3.462 24 1 26.463 1 29.5S3.462 35 6.5 35s5.5-2.463 5.5-5.5S9.538 24 6.5 24zm0 9C4.567 33 3 31.433 3 29.5S4.567 26 6.5 26s3.5 1.567 3.5 3.5S8.433 33 6.5 33zm23-9c-3.037 0-5.5 2.463-5.5 5.5s2.463 5.5 5.5 5.5 5.5-2.463 5.5-5.5-2.463-5.5-5.5-5.5zm0 9c-1.934 0-3.5-1.567-3.5-3.5s1.566-3.5 3.5-3.5 3.5 1.567 3.5 3.5-1.566 3.5-3.5 3.5z"/>
+                                                <path fill="#292F33" d="M6.5 22.914c-3.59 0-6.5 2.91-6.5 6.5s2.91 6.5 6.5 6.5 6.5-2.91 6.5-6.5-2.91-6.5-6.5-6.5zm0 11c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5 4.5 2.015 4.5 4.5-2.015 4.5-4.5 4.5zm23-11c-3.59 0-6.5 2.91-6.5 6.5s2.91 6.5 6.5 6.5 6.5-2.91 6.5-6.5-2.91-6.5-6.5-6.5zm0 11c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5 4.5 2.015 4.5 4.5-2.015 4.5-4.5 4.5z"/>
+                                                <path fill="#77B255" d="M7.001 27.051c-2 4 .999 2.587 1.999.587.905-1.811 3.444-2.429 4.66-.375C12.708 24.213 9.863 22 6.5 22c-1.374 0-2.657.375-3.764 1.02 2.833.165 5.366 1.831 4.265 4.031z"/>
+                                                <path fill="#99AAB5" d="M30 29c0 .553-.447 1-1 1h-9c-.553 0-1-.447-1-1 0-.553.447-1 1-1h9c.553 0 1 .447 1 1z"/>
+                                                <path fill="#99AAB5" d="M29.923 30.306c-.433.344-1.062.272-1.405-.161L22.917 23.1c-.344-.433-.271-1.062.16-1.405.433-.344 1.062-.272 1.405.161l5.601 7.045c.344.432.271 1.061-.16 1.405z"/>
+                                                <path fill="#CCD6DD" d="M12.463 20.367c.466.297.602.915.304 1.381L7.918 29.33c-.298.465-.916.602-1.381.303-.466-.297-.602-.915-.304-1.381l4.849-7.582c.298-.465.916-.602 1.381-.303z"/>
+                                                <path fill="#77B255" d="M10.529 17.368C9.718 17.953 6 19 9 21s5.094 4.125 5.094 6c0 2.665-.656 4 .906 4h7s-1-4 2-7 5-2 8-3c1.897-.633 4-2 4-3s0-2-2-1-1 1.551-3 .551-3.16.449-4.16.449-7.614 1.68-8.62-.049C17.667 17 16.434 16 14.616 16c-1.318 0-3.116.667-4.087 1.368z"/>
+                                                <path fill="#66757F" d="M21 29c0 1.104-.895 2-2 2-1.104 0-2-.896-2-2s.896-2 2-2c1.105 0 2 .896 2 2z"/>
+                                                <path fill="#CCD6DD" d="M25.8 27.975l9.277-3.732 1.12 2.783-9.278 3.732z"/>
+                                                <path fill="#FFF" d="M26.173 28.902l9.277-3.732.373.928-9.277 3.732z"/>
+                                                <path fill="#66757F" d="M26.546 29.83l9.277-3.731.373.927-9.277 3.732z"/>
+                                                <path fill="#292F33" d="M19 18.137c1.366.385 5.645-.007 6.802-.098 1.157-.09 1.594.451 0 1.25C24 20.19 20.188 22.45 19 22.914c-.998.391-4.5-1.211-4.917-1.696-.416-.486 3.745-3.411 4.917-3.081zM34 17c-1.549.04-3 0-4 0s-1.158 1.102 1.549 1.102S34 17 34 17z"/>
+                                                <path fill="#77B255" d="M3.736 16.958c0-1.465 4.456-5.134 3.975-4.476-1.15 1.573-.489 3.476 1.487 3.476S11.907 22.477 9 21c-2.907-1.477-5.264-3.323-5.264-4.042z"/>
+                                                <path fill="#CCD6DD" d="M8.606 10.569c.704.61.345 1.692-1.045 3.485-1.391 1.793-3.583 2.521-2.359.542s3.404-4.027 3.404-4.027z"/>
+                                                <path fill="#66757F" d="M10.529 17.368c-.19.476-.73.706-1.206.516l-.134-.054c-.476-.19-.707-.73-.516-1.206l.798-1.992c.19-.476.73-.707 1.206-.516l.135.054c.476.19.707.73.516 1.206l-.799 1.992z"/>
+                                                <path fill="#292F33" d="M12.911 13.991c.094.26-.04.546-.3.64l-1.881.679c-.26.094-.546-.041-.64-.301-.094-.26.04-.546.3-.64l1.881-.679c.26-.094.546.041.64.301z"/>
+                                            </svg>
+                                            Optimised Users store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            Optimised Libraries store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#939598" d="M0 34h36v2H0z"/>
+                                                <path fill="#BCBEC0" d="M3 35h33V8S7 9 0 23.999c-2.115 4.531 6 6 6 6L3 35z"/>
+                                                <path fill="#3B88C3" d="M23 18L8 25H-.31C-.894 28.748 6 29.999 6 29.999L3 35h33V15.29L23 18z"/>
+                                                <path fill="#231F20" d="M14 35l2-3h20v3z"/>
+                                                <path fill="#E6E7E8" d="M36 14.142c-4.347.358-13.388 1.62-19.581 6.044-5.603 4.002-11.877 3.899-16.033 3.829l-.39-.006c-.347.748-.411 1.41-.283 1.998.214.003.411.004.64.008.553.009 1.155.019 1.799.019 4.185 0 10.108-.42 15.429-4.221 5.23-3.735 13.453-5.241 18.419-5.672v-1.999z"/>
+                                                <path fill="#A7A9AC" d="M12 16l3.878-4.929C20.727 9.132 29 8.02 36 8.02v2C29 10.019 18 12 12 16z"/>
+                                                <path fill="#58595B" d="M3.095 19.465c1.672-.392 3.617-.723 5.44-1.65C18 13 19.008 10.017 19 10c-7 0-12 4-15.905 9.465z"/>
+                                                <path fill="#269" d="M6 29.999L36 30v-2H1.113C2.988 29.452 6 29.999 6 29.999z"/>
+                                                <path fill="#FFE8B6" d="M3.549 22.145c.47.034 1.013.019 1.591-.06 1.642-.222 2.913-.846 2.839-1.394-.073-.541-1.435-.803-3.052-.594-.648.632-1.12 1.326-1.378 2.048z"/>
+                                            </svg>
+                                            Optimised Requests store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#99AAB5" d="M6.5 24C3.462 24 1 26.463 1 29.5S3.462 35 6.5 35s5.5-2.463 5.5-5.5S9.538 24 6.5 24zm0 9C4.567 33 3 31.433 3 29.5S4.567 26 6.5 26s3.5 1.567 3.5 3.5S8.433 33 6.5 33zm23-9c-3.037 0-5.5 2.463-5.5 5.5s2.463 5.5 5.5 5.5 5.5-2.463 5.5-5.5-2.463-5.5-5.5-5.5zm0 9c-1.934 0-3.5-1.567-3.5-3.5s1.566-3.5 3.5-3.5 3.5 1.567 3.5 3.5-1.566 3.5-3.5 3.5z"/>
+                                                <path fill="#292F33" d="M6.5 22.914c-3.59 0-6.5 2.91-6.5 6.5s2.91 6.5 6.5 6.5 6.5-2.91 6.5-6.5-2.91-6.5-6.5-6.5zm0 11c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5 4.5 2.015 4.5 4.5-2.015 4.5-4.5 4.5zm23-11c-3.59 0-6.5 2.91-6.5 6.5s2.91 6.5 6.5 6.5 6.5-2.91 6.5-6.5-2.91-6.5-6.5-6.5zm0 11c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5 4.5 2.015 4.5 4.5-2.015 4.5-4.5 4.5z"/>
+                                                <path fill="#77B255" d="M7.001 27.051c-2 4 .999 2.587 1.999.587.905-1.811 3.444-2.429 4.66-.375C12.708 24.213 9.863 22 6.5 22c-1.374 0-2.657.375-3.764 1.02 2.833.165 5.366 1.831 4.265 4.031z"/>
+                                                <path fill="#99AAB5" d="M30 29c0 .553-.447 1-1 1h-9c-.553 0-1-.447-1-1 0-.553.447-1 1-1h9c.553 0 1 .447 1 1z"/>
+                                                <path fill="#99AAB5" d="M29.923 30.306c-.433.344-1.062.272-1.405-.161L22.917 23.1c-.344-.433-.271-1.062.16-1.405.433-.344 1.062-.272 1.405.161l5.601 7.045c.344.432.271 1.061-.16 1.405z"/>
+                                                <path fill="#CCD6DD" d="M12.463 20.367c.466.297.602.915.304 1.381L7.918 29.33c-.298.465-.916.602-1.381.303-.466-.297-.602-.915-.304-1.381l4.849-7.582c.298-.465.916-.602 1.381-.303z"/>
+                                                <path fill="#77B255" d="M10.529 17.368C9.718 17.953 6 19 9 21s5.094 4.125 5.094 6c0 2.665-.656 4 .906 4h7s-1-4 2-7 5-2 8-3c1.897-.633 4-2 4-3s0-2-2-1-1 1.551-3 .551-3.16.449-4.16.449-7.614 1.68-8.62-.049C17.667 17 16.434 16 14.616 16c-1.318 0-3.116.667-4.087 1.368z"/>
+                                                <path fill="#66757F" d="M21 29c0 1.104-.895 2-2 2-1.104 0-2-.896-2-2s.896-2 2-2c1.105 0 2 .896 2 2z"/>
+                                                <path fill="#CCD6DD" d="M25.8 27.975l9.277-3.732 1.12 2.783-9.278 3.732z"/>
+                                                <path fill="#FFF" d="M26.173 28.902l9.277-3.732.373.928-9.277 3.732z"/>
+                                                <path fill="#66757F" d="M26.546 29.83l9.277-3.731.373.927-9.277 3.732z"/>
+                                                <path fill="#292F33" d="M19 18.137c1.366.385 5.645-.007 6.802-.098 1.157-.09 1.594.451 0 1.25C24 20.19 20.188 22.45 19 22.914c-.998.391-4.5-1.211-4.917-1.696-.416-.486 3.745-3.411 4.917-3.081zM34 17c-1.549.04-3 0-4 0s-1.158 1.102 1.549 1.102S34 17 34 17z"/>
+                                                <path fill="#77B255" d="M3.736 16.958c0-1.465 4.456-5.134 3.975-4.476-1.15 1.573-.489 3.476 1.487 3.476S11.907 22.477 9 21c-2.907-1.477-5.264-3.323-5.264-4.042z"/>
+                                                <path fill="#CCD6DD" d="M8.606 10.569c.704.61.345 1.692-1.045 3.485-1.391 1.793-3.583 2.521-2.359.542s3.404-4.027 3.404-4.027z"/>
+                                                <path fill="#66757F" d="M10.529 17.368c-.19.476-.73.706-1.206.516l-.134-.054c-.476-.19-.707-.73-.516-1.206l.798-1.992c.19-.476.73-.707 1.206-.516l.135.054c.476.19.707.73.516 1.206l-.799 1.992z"/>
+                                                <path fill="#292F33" d="M12.911 13.991c.094.26-.04.546-.3.64l-1.881.679c-.26.094-.546-.041-.64-.301-.094-.26.04-.546.3-.64l1.881-.679c.26-.094.546.041.64.301z"/>
+                                            </svg>
+                                            Optimised Tasks store in the API
+
+* perf:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                            </svg>
+                                            Optimised Webhooks store in the API
+
+* docs:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#553788" d="M15 31c0 2.209-.791 4-3 4H5c-4 0-4-14 0-14h7c2.209 0 3 1.791 3 4v6z"/>
+                                                <path fill="#9266CC" d="M34 33h-1V23h1c.553 0 1-.447 1-1s-.447-1-1-1H10c-4 0-4 14 0 14h24c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M34.172 33H11c-2 0-2-10 0-10h23.172c1.104 0 1.104 10 0 10z"/>
+                                                <path fill="#99AAB5" d="M11.5 25h23.35c-.135-1.175-.36-2-.678-2H11c-1.651 0-1.938 6.808-.863 9.188C9.745 29.229 10.199 25 11.5 25z"/>
+                                                <path fill="#269" d="M12 8c0 2.209-1.791 4-4 4H4C0 12 0 1 4 1h4c2.209 0 4 1.791 4 4v3z"/>
+                                                <path fill="#55ACEE" d="M31 10h-1V3h1c.553 0 1-.447 1-1s-.447-1-1-1H7C3 1 3 12 7 12h24c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M31.172 10H8c-2 0-2-7 0-7h23.172c1.104 0 1.104 7 0 7z"/>
+                                                <path fill="#99AAB5" d="M8 5h23.925c-.114-1.125-.364-2-.753-2H8C6.807 3 6.331 5.489 6.562 7.5 6.718 6.142 7.193 5 8 5z"/>
+                                                <path fill="#F4900C" d="M20 17c0 2.209-1.791 4-4 4H6c-4 0-4-9 0-9h10c2.209 0 4 1.791 4 4v1z"/>
+                                                <path fill="#FFAC33" d="M35 19h-1v-5h1c.553 0 1-.447 1-1s-.447-1-1-1H15c-4 0-4 9 0 9h20c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+                                                <path fill="#CCD6DD" d="M35.172 19H16c-2 0-2-5 0-5h19.172c1.104 0 1.104 5 0 5z"/>
+                                                <path fill="#99AAB5" d="M16 16h19.984c-.065-1.062-.334-2-.812-2H16c-1.274 0-1.733 2.027-1.383 3.5.198-.839.657-1.5 1.383-1.5z"/>
+                                            </svg>
+                                            Added comments to the endpoints
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#819223e</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/><path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/><path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/><circle fill="#FFF" cx="6.682" cy="5" r="1"/><path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/></svg> Beta message no longer shows on main releases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9235de4</div>
+                                        <div class="message">ci(semantic-release): update sync commit msg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05b3931</div>
+                                        <div class="message">ci(semantic-release): auto-sync commit message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd8fe9</div>
+                                        <div class="message">Merge pull request #406 from wizarrrr/chore/general-maintenance
+
+chore: unraid template, migration error &amp; plex home error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78665f6</div>
+                                        <div class="message">
+                                            Revert "fix:
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/>
+                                                <path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/>
+                                                <path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/>
+                                                <path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/>
+                                            </svg>
+                                            Viewing managed users now works if media override is the Plex App URL"
+
+This reverts commit 71cd75a7fa66efc0738b4f10f3fa80b7ec893384.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7eaf403</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/><g fill="#C1694F"><circle cx="4.389" cy="25.778" r=".972"/><circle cx="7.306" cy="28.694" r=".972"/><circle cx="10.222" cy="31.611" r=".972"/><circle cx="7.306" cy="22.861" r=".972"/><circle cx="10.222" cy="25.778" r=".972"/><circle cx="13.139" cy="28.694" r=".972"/><path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/><circle cx="25.778" cy="10.222" r=".972"/><circle cx="28.694" cy="13.139" r=".972"/><circle cx="25.778" cy="4.389" r=".972"/><circle cx="28.694" cy="7.306" r=".972"/><circle cx="31.611" cy="10.222" r=".972"/></g><path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/><path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/></svg> Re-write plex.tv URL's to app.plex.tv on media server override</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71cd75a</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M27.816 23.464c.299-1.148.465-2.318.465-3.464 0-4.161-2.122-6.779-5.258-8.035.417-1.008.665-2.108.665-3.2 0-1.581-.495-2.498-1.315-3.032 1.091-.482 2.517-1.5 3.027-2.011.781-.781.94-1.889.354-2.475-.586-.586-1.693-.428-2.475.354-.611.611-1.948 2.53-2.223 3.619C20.172 5.025 19.126 5 18 5c-1.125 0-2.172.025-3.055.219-.275-1.089-1.612-3.007-2.223-3.619-.781-.781-1.889-.94-2.475-.354-.585.587-.427 1.694.354 2.476.511.511 1.937 1.529 3.027 2.011-.821.533-1.316 1.451-1.316 3.032 0 1.093.248 2.192.665 3.2C9.841 13.221 7.719 15.839 7.719 20c0 1.146.167 2.317.465 3.464v.023l.006-.003c1.209 4.621 4.643 8.847 8.812 9.44L17 33c0 1.657.448 3 1 3 .553 0 1-1.343 1-3 0-.026-.002-.049-.003-.075 4.169-.593 7.604-4.819 8.813-9.44l.006.003v-.024z"/><path d="M14.624 19h6.752c-1.462-1.424-2.615-2.881-3.106-4h-.54c-.491 1.119-1.644 2.576-3.106 4zm-5.378 4c-.361.187-.715.349-1.062.488.32 1.219.799 2.407 1.401 3.512h16.83c.602-1.105 1.082-2.293 1.401-3.512-.347-.139-.701-.301-1.063-.488H9.246zm3.593 8c1.518 1.234 3.278 2 5.161 2 1.884 0 3.643-.766 5.162-2H12.839z" fill="#FFCC4D"/><path fill="#CCD6DD" d="M18 13.505c0 2.647-7.858 8.584-12 8.584s-6-2.443-6-5.09c0-2.646 1.858-4.495 6-4.495 4.143.001 12-1.644 12 1.001zm0 0c0 2.647 7.857 8.584 12 8.584s6-2.443 6-5.09c0-2.646-1.857-4.495-6-4.495s-12-1.644-12 1.001z"/><path fill="#99AAB5" d="M2 19c-.552 0-1-.447-1-1 0-.551.446-.999.998-1 .048 0 4.949-.07 13.596-3.914.505-.227 1.096.002 1.32.507.225.505-.003 1.096-.507 1.32C7.317 18.953 2.213 19 2 19zm32 0c-.213 0-5.316-.047-14.406-4.086-.505-.224-.731-.815-.508-1.32.225-.504.817-.732 1.32-.507C29.054 16.93 33.954 17 34.003 17c.551.003.997.452.996 1.003-.002.551-.448.997-.999.997z"/></svg> Viewing managed users now works if media override is the Plex App URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a075079</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M2.92 21.393L21.393 2.92c3.227-3.227 8.46-3.227 11.687 0 3.227 3.227 3.227 8.46 0 11.687L14.607 33.08c-3.227 3.227-8.46 3.227-11.687 0-3.227-3.228-3.227-8.46 0-11.687z"/><g fill="#C1694F"><circle cx="4.389" cy="25.778" r=".972"/><circle cx="7.306" cy="28.694" r=".972"/><circle cx="10.222" cy="31.611" r=".972"/><circle cx="7.306" cy="22.861" r=".972"/><circle cx="10.222" cy="25.778" r=".972"/><circle cx="13.139" cy="28.694" r=".972"/><path d="M21.896 7.189c.064-.533.548-.913 1.081-.849.533.064.913.548.849 1.081-.064.533-.548.913-1.081.849-.533-.063-.913-.547-.849-1.081z"/><circle cx="25.778" cy="10.222" r=".972"/><circle cx="28.694" cy="13.139" r=".972"/><circle cx="25.778" cy="4.389" r=".972"/><circle cx="28.694" cy="7.306" r=".972"/><circle cx="31.611" cy="10.222" r=".972"/></g><path fill="#EABAA7" d="M6.82 17.514L17.512 6.819 29.18 18.486 18.486 29.18z"/><path fill="#F7DED5" d="M9.799 18.423c-.249 0-.498-.095-.687-.285-.38-.38-.38-.995 0-1.375l7.715-7.715c.38-.38.995-.38 1.375 0s.38.995 0 1.375l-7.715 7.715c-.191.191-.439.285-.688.285z"/></svg> Removed plex home configuration due to not existing in the Plex API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#affa9ff</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/><path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/><path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/><circle fill="#FFF" cx="6.682" cy="5" r="1"/><path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/></svg> Fix migration syntax error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e52988</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><circle fill="#CCD6DD" cx="28.5" cy="26.5" r="3.5"/><circle fill="#F5F8FA" cx="29.5" cy="25.5" r="2.5"/><circle fill="#CCD6DD" cx="26" cy="30" r="3"/><circle fill="#F5F8FA" cx="26.5" cy="29.5" r="2.5"/><path fill="#EA596E" d="M32.469 8.188s1.156 2.375.531 6.844-2.428 7.734-7.384 12.737c-8.411 8.493-14.321 9.461-19.461 4.271-1.883-1.901-2.627-3.883-2.936-5.977S2.991 21.306 3 21c.034-1.234 1.188-4.667 1.188-4.667l28.281-8.145z"/><path fill="#F4ABBA" d="M10.261 8.358C13.468 5.076 17.79 1.834 21.281 1c3.582-.856 6.319.766 8.484 2.881 1.87 1.827 3.482 4.751 3.141 7.775-.438 3.889-3.512 8.087-7.167 11.827-3.095 3.167-7.228 6.373-10.614 7.267-3.723.982-6.652-.602-8.891-2.79-1.933-1.889-3.565-4.781-3.141-7.929.515-3.813 3.608-8.031 7.168-11.673z"/><path fill="#FFCCD6" d="M11.626 8.375c3.179-3.24 6.801-6.001 10.03-6.531 2.428-.399 4.675.785 6.111 2.193 1.363 1.337 2.642 3.525 2.389 5.807-.368 3.319-3.118 7.05-6.418 10.414-2.682 2.734-6.094 5.501-8.926 6.336-3.049.9-5.481-.297-7.215-1.998-1.618-1.587-2.826-3.994-2.191-6.815.678-3.01 3.345-6.475 6.22-9.406z"/><circle fill="#CCD6DD" cx="9" cy="10" r="3"/><circle fill="#F5F8FA" cx="9.5" cy="9.5" r="2.5"/><circle fill="#CCD6DD" cx="5.5" cy="8.5" r="2.5"/><circle fill="#CCD6DD" cx="12" cy="6" r="3"/><circle fill="#CCD6DD" cx="9" cy="3" r="2"/><circle fill="#CCD6DD" cx="3.5" cy="4.5" r="1.5"/><circle fill="#CCD6DD" cx="18" cy="4" r="2"/><circle fill="#CCD6DD" cx="5" cy="15" r="2"/><circle fill="#CCD6DD" cx="32.5" cy="25.5" r="2.5"/><circle fill="#CCD6DD" cx="33" cy="19" r="2"/><circle fill="#F5F8FA" cx="6" cy="8" r="2"/><circle fill="#F5F8FA" cx="5.5" cy="14.5" r="1.5"/><circle fill="#F5F8FA" cx="12.5" cy="5.5" r="2.5"/><circle fill="#F5F8FA" cx="9.5" cy="2.5" r="1.5"/><circle fill="#F5F8FA" cx="4" cy="4" r="1"/><circle fill="#F5F8FA" cx="18.5" cy="3.5" r="1.5"/><circle fill="#F5F8FA" cx="33" cy="25" r="2"/><circle fill="#F5F8FA" cx="33.5" cy="18.5" r="1.5"/></svg> Corrected branch of the latest image</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b605010</div>
+                                        <div class="message">fix: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#CCD6DD" d="M35 12c0-1-1-4-4-4H9.401c-1.377 0-3.29 1.791-4.302 4L2 17c-1.453.599-2 2.331-2 4v6a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-8c0-1.027-1-7-1-7z"/><path fill="#E1E8ED" d="M9 25a5.997 5.997 0 0 0-5.993 5.861c.32.081.648.139.993.139h11a6 6 0 0 0-6-6zm23.993 5.86A5.996 5.996 0 0 0 27 25c-3.312 0-6 2.687-6 6h11c.345 0 .674-.058.993-.14z"/><circle cx="9" cy="31" r="4" fill="#292F33"/><circle cx="9" cy="31" r="2" fill="#99AAB5"/><circle cx="27" cy="31" r="4" fill="#292F33"/><circle cx="27" cy="31" r="2" fill="#99AAB5"/><path fill="#DD2E44" d="M0 21h36v3H0v-3Z"/><path fill="#55ACEE" d="M8 10h5v7H4z"/><path fill="#DD2E44" d="M17 6.5A1.5 1.5 0 0 1 15.5 8h-4a1.5 1.5 0 1 1 0-3h4A1.5 1.5 0 0 1 17 6.5Z"/><path fill="#BE1931" d="M18 6.5A1.5 1.5 0 0 1 16.5 8h-1a1.5 1.5 0 1 1 0-3h1A1.5 1.5 0 0 1 18 6.5Z"/><path fill="#3B88C3" d="M26 10v2.27l-1.965-1.135-1 1.73L25.002 14l-1.967 1.135 1 1.73L26 15.731V18h2v-2.27l1.965 1.135 1-1.73L28.998 14l1.967-1.135-1-1.73L28 12.27V10h-2Z"/></svg> Corrected the variable for unlimited invite uses on plex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08840b9</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#C1694F" d="M2 15.375S0 11.75 0 7.75s3.786-3.542 5-2.438c1.292 1.174 3 4.938 3 4.938l-1 .688s-.833-1.51-1.833-2.823-2.75-.943-2.75 1.057S4 15 4 15l-2 .375zm32 0s2-3.625 2-7.625-3.786-3.542-5-2.438c-1.292 1.174-3 4.938-3 4.938l1 .688s.833-1.51 1.833-2.823 2.75-.943 2.75 1.057S32 15 32 15l2 .375z"/><path fill="#C1694F" d="M33.238 16.762C33.238 21.496 30.381 32 18 32S2.762 21.496 2.762 16.762C2.762 13.905 8.532 12 18 12s15.238 1.905 15.238 4.762z"/><path fill="#D99E82" d="M35 13.556C35 20 28.041 22 18 22S1 20 1 13.556C1 10.222 7.438 8 18 8s17 2.222 17 5.556z"/><ellipse fill="#662113" cx="18" cy="13.556" rx="15.938" ry="4.444"/><path d="M17 27.99c-3.646-.051-6.853-.387-9.415-1.138 1.007 1.094 2.262 2.045 3.784 2.765 1.717.226 3.608.341 5.631.37V27.99zm2 0v1.998c2.022-.029 3.913-.143 5.631-.37 1.522-.721 2.777-1.671 3.784-2.765-2.562.749-5.769 1.085-9.415 1.137zm-9.87-4.766c-1.77-.38-3.312-.906-4.55-1.628.282.861.648 1.728 1.11 2.576 1.299.572 2.848.984 4.583 1.276-.451-.727-.828-1.475-1.143-2.224zM18 26c1.875 0 3.64-.071 5.275-.226.458-.697.845-1.417 1.173-2.141-1.953.249-4.11.367-6.448.367-2.442 0-4.684-.129-6.703-.403.327.727.716 1.448 1.174 2.148 1.705.174 3.555.255 5.529.255zm8.61-2.724c-.317.746-.695 1.492-1.147 2.215 1.844-.293 3.483-.718 4.848-1.32.462-.848.828-1.715 1.11-2.576-1.299.758-2.932 1.299-4.811 1.681z" fill="#D99E82"/><path d="M17 12.594c-3.646.051-6.853.387-9.415 1.138 1.007-1.094 2.262-2.045 3.784-2.765 1.717-.226 3.608-.341 5.631-.37v1.997zm2 0v-1.998c2.022.029 3.913.143 5.631.37 1.522.721 2.777 1.671 3.784 2.765-2.562-.75-5.769-1.086-9.415-1.137zm-9.822 4.662c.306-.714.665-1.427 1.095-2.12-1.716.288-3.247.695-4.537 1.257.99.332 2.15.623 3.442.863zM18 14.584c1.875 0 3.64.071 5.275.226.458.697.845 1.417 1.173 2.141-1.953-.249-4.109-.367-6.448-.367-2.442 0-4.684.129-6.703.403.327-.727.716-1.448 1.174-2.148 1.705-.175 3.555-.255 5.529-.255zm7.463.508c.449.719.825 1.46 1.14 2.201 1.378-.247 2.617-.55 3.661-.9-1.356-.591-2.977-1.011-4.801-1.301z" fill="#8A4633"/></svg> Exclude unraid template from triggering semantic releases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e956c28</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><circle fill="#CCD6DD" cx="28.5" cy="26.5" r="3.5"/><circle fill="#F5F8FA" cx="29.5" cy="25.5" r="2.5"/><circle fill="#CCD6DD" cx="26" cy="30" r="3"/><circle fill="#F5F8FA" cx="26.5" cy="29.5" r="2.5"/><path fill="#EA596E" d="M32.469 8.188s1.156 2.375.531 6.844-2.428 7.734-7.384 12.737c-8.411 8.493-14.321 9.461-19.461 4.271-1.883-1.901-2.627-3.883-2.936-5.977S2.991 21.306 3 21c.034-1.234 1.188-4.667 1.188-4.667l28.281-8.145z"/><path fill="#F4ABBA" d="M10.261 8.358C13.468 5.076 17.79 1.834 21.281 1c3.582-.856 6.319.766 8.484 2.881 1.87 1.827 3.482 4.751 3.141 7.775-.438 3.889-3.512 8.087-7.167 11.827-3.095 3.167-7.228 6.373-10.614 7.267-3.723.982-6.652-.602-8.891-2.79-1.933-1.889-3.565-4.781-3.141-7.929.515-3.813 3.608-8.031 7.168-11.673z"/><path fill="#FFCCD6" d="M11.626 8.375c3.179-3.24 6.801-6.001 10.03-6.531 2.428-.399 4.675.785 6.111 2.193 1.363 1.337 2.642 3.525 2.389 5.807-.368 3.319-3.118 7.05-6.418 10.414-2.682 2.734-6.094 5.501-8.926 6.336-3.049.9-5.481-.297-7.215-1.998-1.618-1.587-2.826-3.994-2.191-6.815.678-3.01 3.345-6.475 6.22-9.406z"/><circle fill="#CCD6DD" cx="9" cy="10" r="3"/><circle fill="#F5F8FA" cx="9.5" cy="9.5" r="2.5"/><circle fill="#CCD6DD" cx="5.5" cy="8.5" r="2.5"/><circle fill="#CCD6DD" cx="12" cy="6" r="3"/><circle fill="#CCD6DD" cx="9" cy="3" r="2"/><circle fill="#CCD6DD" cx="3.5" cy="4.5" r="1.5"/><circle fill="#CCD6DD" cx="18" cy="4" r="2"/><circle fill="#CCD6DD" cx="5" cy="15" r="2"/><circle fill="#CCD6DD" cx="32.5" cy="25.5" r="2.5"/><circle fill="#CCD6DD" cx="33" cy="19" r="2"/><circle fill="#F5F8FA" cx="6" cy="8" r="2"/><circle fill="#F5F8FA" cx="5.5" cy="14.5" r="1.5"/><circle fill="#F5F8FA" cx="12.5" cy="5.5" r="2.5"/><circle fill="#F5F8FA" cx="9.5" cy="2.5" r="1.5"/><circle fill="#F5F8FA" cx="4" cy="4" r="1"/><circle fill="#F5F8FA" cx="18.5" cy="3.5" r="1.5"/><circle fill="#F5F8FA" cx="33" cy="25" r="2"/><circle fill="#F5F8FA" cx="33.5" cy="18.5" r="1.5"/></svg> Exclude language filles from the workspace search</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a82a78</div>
+                                        <div class="message">chore: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#F4900C" d="M35.676 18.625c.057.794.011 5.907.006 6.093-.004.139-.013.279-.026.422-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.656 22.827.641 19.312c-.233-.807-.324-1.562-.294-2.267.011-.256-.141-5.031.035-6.169.338-2.189 35.008 3.795 35.294 7.749z"/><path fill="#FFCC4D" d="M4.718 4.856c3.5-2.125 8.964-2.286 12.5 1.25 3 3 4.243 3.843 9.243 4.843s9.632 3.532 9.194 8.094c-.618 6.445-5.937 10.342-12.187 9.375-6.062-.938-8.938-5.5-11.938-8.5S1.655 16.73.64 13.215c-1.109-3.842.996-6.487 4.078-8.359z"/><g fill="#FFAC33"><circle cx="12.513" cy="14.106" r="1.5"/><circle cx="29.013" cy="25.794" r="1"/><circle cx="17.013" cy="24.106" r="1"/><circle cx="24.513" cy="24.794" r="1.5"/><circle cx="31.825" cy="21.606" r="1.5"/><circle cx="29.013" cy="18.419" r="1"/><circle cx="25.013" cy="20.356" r="1"/><circle cx="19.513" cy="21.356" r="1"/><path d="M14.013 20.606c0-.828-.672-1.5-1.5-1.5-.496 0-.933.244-1.206.616.074.067.155.127.224.197.598.598 1.192 1.258 1.806 1.939.406-.268.676-.728.676-1.252z"/><circle cx="9.575" cy="16.419" r="1"/><circle cx="16.013" cy="17.419" r="1"/><circle cx="24.513" cy="13.606" r="1.5"/><circle cx="21.013" cy="17.419" r="1.5"/><circle cx="12.013" cy="10.106" r="1"/><circle cx="20.513" cy="11.106" r="1"/><circle cx="14.513" cy="7.856" r="1"/><circle cx="7.575" cy="12.606" r="1"/><circle cx="6.013" cy="6.856" r="1"/><circle cx="28.575" cy="14.106" r="1"/><circle cx="33.325" cy="17.419" r="1"/><circle cx="3.263" cy="10.606" r="1.5"/><circle cx="10.575" cy="5.856" r="1.5"/><circle cx="16.513" cy="11.106" r="1.5"/><path d="M19.513 26.106c-.408 0-.778.164-1.048.429.77.486 1.61.908 2.531 1.243.007-.057.017-.113.017-.172 0-.828-.672-1.5-1.5-1.5zm-14.75-10.5c0-.552-.448-1-1-1-.542 0-.978.433-.994.971.491.288 1.034.549 1.615.795.225-.184.379-.452.379-.766z"/></g></svg> Updated the unraid template to include different branches</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b784a2</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#407 v4.1.1 beta1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">wizarrrr/wizarr</span></div>
+                                    <div>30 files changed <span class="code">++488 --625</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">v4.1.1</span>
+                                        in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">refactor/discord-releases</span>
+                                        in
+                                        <span class="repo">wizarrrr/wizarr</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">v4.2.0</span>
+                                        in
+                                        <span class="repo">wizarrrr/wizarr</span>
                                     </div>
                                 </div>
                             </section>
@@ -1011,7 +1507,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.34m out of 204m repositories</span>
+                                    <span class="gh">ranked 1.34m out of 192m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -1090,7 +1586,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.49m out of 204m repositories</span>
+                                    <span class="gh">ranked 3.49m out of 192m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1181,7 +1677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2024, 14:34:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2024, 15:34:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
