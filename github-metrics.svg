@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.12m added, 316k removed
+                                    3.11m added, 1.67m removed
                                 </div>
                             </section>
                             <section>
@@ -485,6 +485,30 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a97a4a1</div>
+                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#78B159" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/></svg> Bot is up (405 in 435 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8f266b</div>
+                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#78B159" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/></svg> Website is up (200 in 535 ms) [skip ci] [upptime]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Wizarding-Cards/status.wizarding.cards</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#bd32d59</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Update status summary [skip ci] [upptime]</div>
                                     </div>
@@ -566,30 +590,6 @@ Minor 10.9 Amends</div>
                                     <div class="commit">
                                         <div class="sha">#9391c21</div>
                                         <div class="message">Fixes for TV layout and JMP</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Wizarding-Cards/status.wizarding.cards</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c08cd09</div>
-                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#78B159" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/></svg> Bot is up (405 in 729 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d71a1b</div>
-                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#78B159" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/></svg> Website is up (200 in 717 ms) [skip ci] [upptime]</div>
                                     </div>
                                 </div>
                             </section>
@@ -1059,7 +1059,7 @@ Minor 10.9 Amends</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.68m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.68m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1097,7 +1097,7 @@ Minor 10.9 Amends</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.34m out of 206m repositories</span>
+                                    <span class="gh">ranked 1.34m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -1257,7 +1257,7 @@ Minor 10.9 Amends</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2024, 23:34:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2024, 00:34:37 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
