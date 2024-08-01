@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2163" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2162" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.27m added, 1.17m removed
+                                    138k added, 192k removed
                                 </div>
                             </section>
                             <section>
@@ -485,6 +485,41 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#468 Beta Release</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by JamsRepos in <span class="repo">wizarrrr/wizarr</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>@albinmedoc A few people in Discord are asking for edit functionality of the pre-existing pages? What do you reckon?</i>
+                                            These pages are conditional depending on whether you have Plex/Jellyfin and Discord. It would be possible to edit these by putting them in a separate database table and have them prepopulated with the English hardcoded version (how they look today).
+What we lose with this implementation is multilingualism. Onboarding pages can only be in one language at a time.
+I think this still sounds like a very good idea.
+Give me a GO and I'll start development
+                                        </i>
+                                        Feel free! Free reign, I think the language for the instance will be the same for the whole server regardless. So the content would be written in the language of the admin no doubt.
+What Wizarr is made for is for easy management of your friends and family, the only issue you'd have with multi-language support is if you ran a big share or something of the sorts, which we don't want to openly support. So for the most part, the language across the server will be the same.
+I think you're absolutely fine to crack on, I don't see no issues.
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <circle fill="#FFCC4D" cx="18" cy="18" r="18"/>
+                                            <path fill="#664500" d="M18 21c-3.623 0-6.027-.422-9-1-.679-.131-2 0-2 2 0 4 4.595 9 11 9 6.404 0 11-5 11-9 0-2-1.321-2.132-2-2-2.973.578-5.377 1-9 1z"/>
+                                            <path fill="#FFF" d="M9 22s3 1 9 1 9-1 9-1-2 4-9 4-9-4-9-4z"/>
+                                            <ellipse fill="#664500" cx="12" cy="13.5" rx="2.5" ry="3.5"/>
+                                            <ellipse fill="#664500" cx="24" cy="13.5" rx="2.5" ry="3.5"/>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -562,34 +597,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#469 feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#292F33" d="M26 9c-3.591 0-6.27-1.648-7.989-4.905C16.385 7.314 13.993 9 11 9c-.552 0-1-.448-1-1s.448-1 1-1c2.729 0 4.765-1.957 6.051-5.816C17.188.775 17.569.5 18 .5s.812.275.949.684C20.271 5.151 22.512 7 26 7c.553 0 1 .448 1 1s-.447 1-1 1z"/><path fill="#FFAC33" d="M14.711 9.654c3.364 3.366.498 5.954-2.868 9.319-3.365 3.365-5.954 6.232-9.319 2.868-3.366-3.366-3.366-8.822 0-12.187 3.366-3.366 8.821-3.366 12.187 0z"/><path fill="#BE1931" d="M15.542 10.972c1.584 1.585.248 5.486-2.983 8.717-3.231 3.231-7.132 4.568-8.717 2.982-1.584-1.584-.248-5.486 2.982-8.717 3.232-3.23 7.134-4.566 8.718-2.982z"/><path fill="#FFAC33" d="M21.289 9.654c-3.363 3.366-.498 5.954 2.868 9.319 3.365 3.365 5.954 6.232 9.319 2.868 3.365-3.366 3.365-8.822 0-12.187-3.365-3.366-8.82-3.366-12.187 0z"/><path fill="#BE1931" d="M20.459 10.972c-1.585 1.585-.249 5.486 2.982 8.717 3.23 3.231 7.133 4.568 8.717 2.982 1.584-1.584.248-5.486-2.983-8.717-3.23-3.23-7.133-4.566-8.716-2.982z"/><path fill="#AA8DD8" d="M22.41 18.221c.199-.16.459-.244.734-.215.867.094 1.598.396 2.109.873.541.505.807 1.183.734 1.862-.129 1.191-1.324 2.285-3.363 2.065-.793-.085-1.146.17-1.158.291-.014.121.277.446 1.07.532.867.094 1.598.396 2.109.873.541.505.809 1.183.734 1.862-.129 1.192-1.324 2.285-3.361 2.066-.578-.062-.883.057-1.012.134-.103.063-.144.124-.148.158-.012.12.275.445 1.07.531.549.06.947.553.887 1.102-.059.549-.551.946-1.102.887-2.037-.219-2.973-1.542-2.844-2.735.129-1.192 1.324-2.285 3.363-2.065.578.063.881-.057 1.01-.134.104-.062.145-.123.148-.157.014-.121-.275-.446-1.07-.532-2.037-.22-2.973-1.542-2.844-2.735.129-1.192 1.324-2.286 3.361-2.064.578.062.883-.058 1.012-.135.103-.062.144-.123.148-.157.012-.121-.277-.446-1.07-.532-.549-.059-.947-.553-.887-1.102.032-.276.171-.512.37-.673z"/><path fill="#77B255" d="M15.266 35.828c-1.973.557-3.334-.322-3.658-1.477-.324-1.154.378-2.615 2.35-3.17.77-.216 1.001-.584.97-.701-.034-.119-.425-.312-1.193-.096-1.972.556-3.333-.324-3.657-1.479-.326-1.155.378-2.614 2.351-3.169.769-.217 1.001-.586.967-.703-.033-.116-.423-.311-1.192-.095-.53.149-1.084-.159-1.233-.69-.148-.533.161-1.084.693-1.234 1.971-.555 3.333.322 3.659 1.479.324 1.154-.379 2.613-2.352 3.17-.77.216-1.001.584-.967.701.032.117.422.312 1.19.096 1.974-.556 3.334.322 3.659 1.479.325 1.153-.378 2.612-2.352 3.169-.768.215-.999.586-.967.701.034.118.423.312 1.192.097.532-.151 1.083.159 1.233.69.149.531-.161 1.084-.693 1.232z"/><circle fill="#5C913B" cx="2.5" cy="27.5" r="1.5"/><circle fill="#9266CC" cx="7" cy="31" r="2"/><circle fill="#9266CC" cx="30" cy="27" r="2"/><circle fill="#5C913B" cx="25.5" cy="31.5" r="1.5"/><circle fill="#5C913B" cx="17.5" cy="19.5" r="1.5"/><circle fill="#FFCC4D" cx="7" cy="23" r="2"/><circle fill="#FFCC4D" cx="27.5" cy="16.5" r="1.5"/><circle fill="#FFCC4D" cx="12.5" cy="14.5" r="1.5"/></svg> Any length of invitation code</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by albinmedoc in <span class="repo">wizarrrr/wizarr</span></div>
-                                    <div class="comment">
-                                        No reason at all that I can see, was before my time. I'll take a look at this PR once I have the time as i'm currently working.
-Thanks for another PR btw, you're smashing it. If you're in the Discord let me know, and i'll give you the Developer role so you can chat amongst the team
-                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                            <circle fill="#FFCC4D" cx="18" cy="18" r="18"/>
-                                            <path fill="#664500" d="M18 21c-3.623 0-6.027-.422-9-1-.679-.131-2 0-2 2 0 4 4.595 9 11 9 6.404 0 11-5 11-9 0-2-1.321-2.132-2-2-2.973.578-5.377 1-9 1z"/>
-                                            <path fill="#FFF" d="M9 22s3 1 9 1 9-1 9-1-2 4-9 4-9-4-9-4z"/>
-                                            <ellipse fill="#664500" cx="12" cy="13.5" rx="2.5" ry="3.5"/>
-                                            <ellipse fill="#664500" cx="24" cy="13.5" rx="2.5" ry="3.5"/>
-                                        </svg>
-                                        .
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -612,7 +619,7 @@ Thanks for another PR btw, you're smashing it. If you're in the Discord let me k
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.188227241615316 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1080,7 +1087,7 @@ Thanks for another PR btw, you're smashing it. If you're in the Discord let me k
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 988k out of 208m repositories</span>
+                                    <span class="gh">ranked 988k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 27 stars</div>
                             </div>
@@ -1126,7 +1133,7 @@ Thanks for another PR btw, you're smashing it. If you're in the Discord let me k
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.72m out of 208m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1214,7 +1221,7 @@ Thanks for another PR btw, you're smashing it. If you're in the Discord let me k
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 17:37:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 18:34:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
