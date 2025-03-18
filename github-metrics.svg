@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2147" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2464" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    357k added, 313k removed
+                                    42.8k added, 26.1k removed
                                 </div>
                             </section>
                             <section>
@@ -493,6 +493,104 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 30 commits in
+                                        <span class="repo">JamsRepos/ElegantFin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d57dae1</div>
+                                        <div class="message">Fix: Made different table styles in Dashboard look a bit more consistent with each other</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3c684c</div>
+                                        <div class="message">Fix: Kept background color on small Mui buttons and just colored the text white</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edd7461</div>
+                                        <div class="message">Fix: Text color when hovering over tab buttons was dim in library pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d73fce</div>
+                                        <div class="message">New: Revoke button in API page in Dashboard is colored red now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f57e92d</div>
+                                        <div class="message">New: Placed footer buttons in Metadata Manager horizontally</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab70b69</div>
+                                        <div class="message">New: Skip button for intros and outros should feel more interactive now
+dev: added subtle shadow with active and hover states</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#887b754</div>
+                                        <div class="message">Fix: Updated the Up Next dialog to be more responsive for proper display on portrait orientation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#195b512</div>
+                                        <div class="message">Fix: Playback statistics could not be scrolled horizontally</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b70a46</div>
+                                        <div class="message">Fix: Chapter markers and seek bar were not aligned with each other</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#295cc10</div>
+                                        <div class="message">New: Styled the Playback Reporting section of the Dashboard (i.e., top bar and table)
+New: This also fixes many visual glitches in the Experimental layout, togglable in Display Mode setting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ed5c66</div>
+                                        <div class="message">New: Updated color of selected tab in Metadata Manager</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#127b34f</div>
+                                        <div class="message">dev: added alpha versions of some colors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e24e0ea</div>
+                                        <div class="message">New: Explicity declare dark mode to use dark versions of native elements such as tooltips and date pickers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5991aae</div>
+                                        <div class="message">Fix: Adjusted time markers to prevent shifts in music player and uneven alignment in video player</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7870e74</div>
+                                        <div class="message">Fix: Music player buttons were too close to the seek bar on desktops</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aed9615</div>
+                                        <div class="message">New: Redesigned chapter markers so that they don't clutter the seek bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3357431</div>
+                                        <div class="message">Fix: A thin dark line was visible behind video player seek bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad4bb5f</div>
+                                        <div class="message">Fix: Increased blur size for more uniform shade on continue watching progress bar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f5711b</div>
+                                        <div class="message">Fix: Blur was not covering the whole bar in continue watching cards</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00619e7</div>
+                                        <div class="message">Fix: Added light color behind Live TV cards as a workaround to counter poor contrast on black logos</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">Wizarding-Cards/bot</span>
                                     </div>
@@ -572,26 +670,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">Wizarding-Cards/site</span></div>
                                     <div>322 files changed <span class="code">++263 --176</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Wizarding-Cards/bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#10fea84</div>
-                                        <div class="message">Update card image URLs to include holiday context</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1085,7 +1163,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 579k out of 234m repositories</span>
+                                    <span class="gh">ranked 579k out of 235m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 61 stars</div>
                             </div>
@@ -1131,7 +1209,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.34m out of 234m repositories</span>
+                                    <span class="gh">ranked 2.34m out of 235m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1255,7 +1333,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2025, 00:49:56 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2025, 02:06:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
