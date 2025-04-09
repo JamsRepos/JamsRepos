@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1440" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1224" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    36.4k added, 17.4k removed
+                                    27.6k added, 26k removed
                                 </div>
                             </section>
                             <section>
@@ -505,6 +505,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">staging</span></div>
                                     <div class="commit">
+                                        <div class="sha">#45e3215</div>
+                                        <div class="message">Refactor quest completion logic to improve user notifications and statistics tracking. Update quest completion checks to ensure accurate reward claims and enhance embed messages for better user experience. Adjust daily stats structure to include completed quests and reward status.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Wizarding-Cards/bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">staging</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4d0ac38</div>
                                         <div class="message">Comment out the quest thumbnail URL in the embed to prevent it from being displayed, improving the clarity of the quest presentation.</div>
                                     </div>
@@ -560,84 +580,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">Wizarding-Cards/bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d091e3d</div>
-                                        <div class="message">Merge pull request #110 from Wizarding-Cards/Daily-Quests
-
-Daily Quests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca87f15</div>
-                                        <div class="message">Update cogs/features/cards.py
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2aa735f</div>
-                                        <div class="message">Update cogs/core/context_menus.py
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ed6f97</div>
-                                        <div class="message">Refactor quest generation and user quest retrieval methods to use class methods for improved consistency. Enhance logging for better debugging and update quest selection logic to include an additional quest. Modify embed display for daily quests to improve user experience and clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9290ae7</div>
-                                        <div class="message">Refactor quest reset logic to incorporate last reset time from the database, ensuring accurate daily quest regeneration. Update next reset calculation to handle cases where the last reset occurred today or earlier, improving quest management efficiency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b61e74</div>
-                                        <div class="message">Enhance daily quest rewards by updating reward values to use configuration settings. Improve quest display in embeds to include detailed progress and total rewards, while removing obsolete test quest generation functionality for cleaner code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6550fb</div>
-                                        <div class="message">Refactor quest management by introducing class variables for reset time and updating methods to use instance references. Enhance quest initialization and user quest retrieval logic for improved clarity and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae7e83f</div>
-                                        <div class="message">Update quest value calculation to ensure it does not exceed the target, enhancing quest completion accuracy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c58289c</div>
-                                        <div class="message">Refactor daily quest initialization and reset logic to improve efficiency. Remove the daily quest reset task and implement a check for quest regeneration based on the last reset date, ensuring new quests are generated at the start of each day.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50b26b3</div>
-                                        <div class="message">Remove quest reward claim reset logic for all users to streamline quest management and improve code clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d9b914</div>
-                                        <div class="message">Refactor context menu interaction to directly call profile method, and streamline quest completion checks by removing unnecessary parameters across multiple files for improved clarity and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a94aa2</div>
-                                        <div class="message">Refactor daily quests functionality by renaming and consolidating related features. Replace references to 'daily_quests' with 'quests' across multiple files, and remove the now obsolete daily_quests.py file. Update database and variable references accordingly for improved clarity and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90390f2</div>
-                                        <div class="message">Merge branch 'staging' into Daily-Quests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#062aaf0</div>
-                                        <div class="message">Added foundations for daily quests.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -661,7 +603,7 @@ Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2025, 18:36:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2025, 19:40:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
