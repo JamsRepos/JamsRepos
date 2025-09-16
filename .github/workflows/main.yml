@@ -37,7 +37,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_skipped: runelite
-          plugin_notable: yes
+          plugin_notable: no
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
