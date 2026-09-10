@@ -55,7 +55,6 @@ async function fetchProfile() {
     headers: REST_HEADERS,
   });
   if (!res.ok) throw new Error(`GET /user failed: ${res.status}`);
-  console.log(`[debug] token scopes: ${res.headers.get("x-oauth-scopes")}`);
   return res.json();
 }
 
@@ -69,24 +68,24 @@ function parseLinkHeader(header) {
   );
 }
 
-async function fetchTotalStars() {
+// GitHub's /user endpoint no longer populates total_private_repos regardless
+// of token scope, so repo count and stars are both derived from this same
+// paginated listing (public + private, owned repos only).
+async function fetchRepoStats() {
   let url = "https://api.github.com/user/repos?affiliation=owner&visibility=all&per_page=100";
-  let total = 0;
-  let seen = 0;
-  let privateSeen = 0;
+  let totalRepos = 0;
+  let stars = 0;
   while (url) {
     const res = await fetch(url, { headers: REST_HEADERS });
     if (!res.ok) throw new Error(`GET ${url} failed: ${res.status}`);
     const repos = await res.json();
     for (const repo of repos) {
-      seen += 1;
-      if (repo.private) privateSeen += 1;
-      if (!repo.fork) total += repo.stargazers_count;
+      totalRepos += 1;
+      if (!repo.fork) stars += repo.stargazers_count;
     }
     url = parseLinkHeader(res.headers.get("link")).next ?? null;
   }
-  console.log(`[debug] /user/repos saw ${seen} repos, ${privateSeen} private`);
-  return total;
+  return { totalRepos, stars };
 }
 
 // --- Streak + total commits, from the viewer's contribution history --------
@@ -221,15 +220,10 @@ function renderBanner({ rows, theme }) {
 
 const languages = loadTopLanguages("languages.json", 3);
 const profile = await fetchProfile();
-const stars = await fetchTotalStars();
+const { totalRepos, stars } = await fetchRepoStats();
 const days = await fetchContributionDays();
 const streak = currentStreak(days);
 const totalCommits = await fetchTotalCommits(profile.created_at);
-const totalRepos = profile.public_repos + (profile.total_private_repos ?? 0);
-
-console.log(
-  `[debug] public_repos=${profile.public_repos} total_private_repos=${profile.total_private_repos} owned_private_repos=${profile.owned_private_repos}`,
-);
 
 const rows = [
   { icon: "🔥", label: "Streak", value: `${streak} day${streak === 1 ? "" : "s"}` },
