@@ -12,7 +12,7 @@
       
         <line x1="14" y1="84" x2="326" y2="84" stroke="#30363d" stroke-opacity="0.6" />
         <text x="16" y="101.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">📦 Repos</text>
-        <text x="324" y="101.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9" text-anchor="end" font-variant-numeric="tabular-nums">74</text>
+        <text x="324" y="101.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9" text-anchor="end" font-variant-numeric="tabular-nums">101</text>
       
         <line x1="14" y1="111" x2="326" y2="111" stroke="#30363d" stroke-opacity="0.6" />
         <text x="16" y="128.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">⭐ Stars</text>
@@ -28,6 +28,6 @@
       
         <line x1="14" y1="192" x2="326" y2="192" stroke="#30363d" stroke-opacity="0.6" />
         <text x="16" y="209.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">🔁 Total commits</text>
-        <text x="324" y="209.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9" text-anchor="end" font-variant-numeric="tabular-nums">538</text>
+        <text x="324" y="209.5" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#c9d1d9" text-anchor="end" font-variant-numeric="tabular-nums">539</text>
       
 </svg>
