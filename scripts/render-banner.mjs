@@ -55,6 +55,7 @@ async function fetchProfile() {
     headers: REST_HEADERS,
   });
   if (!res.ok) throw new Error(`GET /user failed: ${res.status}`);
+  console.log(`[debug] token scopes: ${res.headers.get("x-oauth-scopes")}`);
   return res.json();
 }
 
@@ -71,15 +72,20 @@ function parseLinkHeader(header) {
 async function fetchTotalStars() {
   let url = "https://api.github.com/user/repos?affiliation=owner&visibility=all&per_page=100";
   let total = 0;
+  let seen = 0;
+  let privateSeen = 0;
   while (url) {
     const res = await fetch(url, { headers: REST_HEADERS });
     if (!res.ok) throw new Error(`GET ${url} failed: ${res.status}`);
     const repos = await res.json();
     for (const repo of repos) {
+      seen += 1;
+      if (repo.private) privateSeen += 1;
       if (!repo.fork) total += repo.stargazers_count;
     }
     url = parseLinkHeader(res.headers.get("link")).next ?? null;
   }
+  console.log(`[debug] /user/repos saw ${seen} repos, ${privateSeen} private`);
   return total;
 }
 
