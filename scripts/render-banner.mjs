@@ -1,29 +1,29 @@
-// Renders the compact profile metrics card: streak, top languages, public
-// repos, stars, followers, account age, and total commits — one stacked
-// card, in light and dark variants.
+// Renders the compact profile metrics card: streak, top languages, repos,
+// stars, followers, account age, and total commits — one stacked card, in
+// light and dark variants.
 //
-// Every data source is restricted to public data:
-//  - `/users/{login}` and `/users/{login}/repos` are GitHub's public
-//    endpoints — they structurally cannot return private repos, regardless
-//    of the token's scope.
-//  - Streak and total commits come from the GraphQL `viewer` contributions
-//    API, the same aggregate numbers already shown on the public
-//    contribution graph (no repo names or details attached).
+// All numbers are overall totals (public + private combined) — nothing here
+// names or otherwise identifies which repos are private, so a bare count
+// doesn't say anything about them beyond "they exist". Repos/stars use the
+// authenticated `/user` and `/user/repos` endpoints (which include private
+// repos, given a token with `repo` scope); streak and total commits already
+// come from the GraphQL `viewer` contributions API, which aggregates private
+// activity the same way the public contribution graph does.
 //
 // Inputs:
 //  - languages.json: config_output=json dump from the lowlighter/metrics
 //    plugin_languages plugin (produced by the workflow step before this one).
-//  - GH_USER / METRICS_TOKEN env vars.
+//  - METRICS_TOKEN env var: needs `repo` scope (classic PAT) to see private
+//    repos for the repo/star counts and the language breakdown.
 //
 // Outputs: github-metrics-light.svg, github-metrics-dark.svg in the repo root.
 
 import { readFileSync, writeFileSync } from "node:fs";
 
-const GH_USER = process.env.GH_USER;
 const TOKEN = process.env.METRICS_TOKEN;
 
-if (!GH_USER || !TOKEN) {
-  throw new Error("GH_USER and METRICS_TOKEN env vars are required");
+if (!TOKEN) {
+  throw new Error("METRICS_TOKEN env var is required");
 }
 
 const REST_HEADERS = {
@@ -48,13 +48,13 @@ function loadTopLanguages(path, limit = 3) {
     .slice(0, limit);
 }
 
-// --- Public profile stats: repos, stars, followers, account age -----------
+// --- Profile stats: repos, stars, followers, account age (public + private) -
 
-async function fetchProfile(login) {
-  const res = await fetch(`https://api.github.com/users/${login}`, {
+async function fetchProfile() {
+  const res = await fetch("https://api.github.com/user", {
     headers: REST_HEADERS,
   });
-  if (!res.ok) throw new Error(`GET /users/${login} failed: ${res.status}`);
+  if (!res.ok) throw new Error(`GET /user failed: ${res.status}`);
   return res.json();
 }
 
@@ -68,8 +68,8 @@ function parseLinkHeader(header) {
   );
 }
 
-async function fetchPublicStars(login) {
-  let url = `https://api.github.com/users/${login}/repos?type=owner&per_page=100`;
+async function fetchTotalStars() {
+  let url = "https://api.github.com/user/repos?affiliation=owner&visibility=all&per_page=100";
   let total = 0;
   while (url) {
     const res = await fetch(url, { headers: REST_HEADERS });
@@ -214,11 +214,12 @@ function renderBanner({ rows, theme }) {
 // --- Assemble ------------------------------------------------------------
 
 const languages = loadTopLanguages("languages.json", 3);
-const profile = await fetchProfile(GH_USER);
-const stars = await fetchPublicStars(GH_USER);
+const profile = await fetchProfile();
+const stars = await fetchTotalStars();
 const days = await fetchContributionDays();
 const streak = currentStreak(days);
 const totalCommits = await fetchTotalCommits(profile.created_at);
+const totalRepos = profile.public_repos + (profile.total_private_repos ?? 0);
 
 const rows = [
   { icon: "🔥", label: "Streak", value: `${streak} day${streak === 1 ? "" : "s"}` },
@@ -227,7 +228,7 @@ const rows = [
     label: "Top languages",
     value: languages.length ? languages.map((l) => l.name).join(", ") : "—",
   },
-  { icon: "📦", label: "Public repos", value: formatNumber(profile.public_repos) },
+  { icon: "📦", label: "Repos", value: formatNumber(totalRepos) },
   { icon: "⭐", label: "Stars", value: formatNumber(stars) },
   { icon: "👥", label: "Followers", value: formatNumber(profile.followers) },
   { icon: "📅", label: "On GitHub since", value: formatAccountAge(profile.created_at) },

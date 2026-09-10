@@ -1,6 +1,7 @@
-# Compact profile metrics banner: current streak + top-3 public languages.
-# Data sources are restricted to public data by using a METRICS_TOKEN with
-# no `repo` scope (see README for the token setup note).
+# Compact profile metrics banner. Numbers are overall totals (public +
+# private combined) — nothing here names or otherwise identifies which
+# repos are private. Requires METRICS_TOKEN to have `repo` scope so it can
+# see private repos for the repo/star counts and the language breakdown.
 name: Metrics
 on:
   schedule:
@@ -18,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch top languages (public data only)
+      - name: Fetch top languages
         # Note: this action commits languages.json directly to origin/main
         # itself (message "Update languages.json - [Skip GitHub Action]") —
         # it does not leave the file in this job's local workspace. The next
@@ -41,7 +42,6 @@ jobs:
       - name: Render banner
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GH_USER: JamsRepos
         run: node scripts/render-banner.mjs
 
       - name: Commit banner
