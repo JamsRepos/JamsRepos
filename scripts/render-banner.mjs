@@ -161,6 +161,23 @@ async function fetchTotalCommits(joinedAt) {
   return total;
 }
 
+// `viewer.contributionsCollection` only counts commits attributed to the
+// account's *current* identity. Commits made under the old "LubricantJam"
+// username (pre-rename, ~2018-2023) use its noreply address and never get
+// picked up by that query, so they're added in separately here via commit
+// search, which matches on the raw author email regardless of identity.
+const OLD_IDENTITY_EMAIL = "LubricantJam@users.noreply.github.com";
+
+async function fetchOldIdentityCommitCount(email) {
+  const res = await fetch(
+    `https://api.github.com/search/commits?q=${encodeURIComponent(`author-email:${email}`)}`,
+    { headers: REST_HEADERS },
+  );
+  if (!res.ok) throw new Error(`GET /search/commits failed: ${res.status}`);
+  const data = await res.json();
+  return data.total_count;
+}
+
 // --- Formatting --------------------------------------------------------------
 
 function formatNumber(n) {
@@ -223,7 +240,8 @@ const profile = await fetchProfile();
 const { totalRepos, stars } = await fetchRepoStats();
 const days = await fetchContributionDays();
 const streak = currentStreak(days);
-const totalCommits = await fetchTotalCommits(profile.created_at);
+const totalCommits =
+  (await fetchTotalCommits(profile.created_at)) + (await fetchOldIdentityCommitCount(OLD_IDENTITY_EMAIL));
 
 const rows = [
   { icon: "🔥", label: "Streak", value: `${streak} day${streak === 1 ? "" : "s"}` },
