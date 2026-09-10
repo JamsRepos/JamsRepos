@@ -221,6 +221,10 @@ const streak = currentStreak(days);
 const totalCommits = await fetchTotalCommits(profile.created_at);
 const totalRepos = profile.public_repos + (profile.total_private_repos ?? 0);
 
+console.log(
+  `[debug] public_repos=${profile.public_repos} total_private_repos=${profile.total_private_repos} owned_private_repos=${profile.owned_private_repos}`,
+);
+
 const rows = [
   { icon: "🔥", label: "Streak", value: `${streak} day${streak === 1 ? "" : "s"}` },
   {
