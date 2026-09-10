@@ -6,9 +6,10 @@
 // names or otherwise identifies which repos are private, so a bare count
 // doesn't say anything about them beyond "they exist". Repos/stars use the
 // authenticated `/user` and `/user/repos` endpoints (which include private
-// repos, given a token with `repo` scope); streak and total commits already
-// come from the GraphQL `viewer` contributions API, which aggregates private
-// activity the same way the public contribution graph does.
+// repos, given a token with `repo` scope). Streak comes from the GraphQL
+// `viewer` contributions API. Total commits uses commit search (author:login)
+// rather than the contributions API, since the latter doesn't carry history
+// across a username rename (see fetchTotalCommits below).
 //
 // Inputs:
 //  - languages.json: config_output=json dump from the lowlighter/metrics
@@ -137,40 +138,15 @@ function currentStreak(days) {
   return streak;
 }
 
-// contributionsCollection only covers a max ~1yr window per query, so total
-// all-time commits requires one query per year of account history.
-async function fetchTotalCommits(joinedAt) {
-  const query = `
-    query($from: DateTime!, $to: DateTime!) {
-      viewer {
-        contributionsCollection(from: $from, to: $to) {
-          totalCommitContributions
-        }
-      }
-    }
-  `;
-  const startYear = new Date(joinedAt).getUTCFullYear();
-  const endYear = new Date().getUTCFullYear();
-  let total = 0;
-  for (let year = startYear; year <= endYear; year++) {
-    const from = `${year}-01-01T00:00:00Z`;
-    const to = `${year}-12-31T23:59:59Z`;
-    const data = await graphql(query, { from, to });
-    total += data.viewer.contributionsCollection.totalCommitContributions;
-  }
-  return total;
-}
-
-// `viewer.contributionsCollection` only counts commits attributed to the
-// account's *current* identity. Commits made under the old "LubricantJam"
-// username (pre-rename, ~2018-2023) use its noreply address and never get
-// picked up by that query, so they're added in separately here via commit
-// search, which matches on the raw author email regardless of identity.
-const OLD_IDENTITY_EMAIL = "LubricantJam@users.noreply.github.com";
-
-async function fetchOldIdentityCommitCount(email) {
+// contributionsCollection.totalCommitContributions (even summed year-by-year
+// to cover full account history) undercounts: it excludes commits made under
+// a since-renamed username (this account was "LubricantJam" until 2023).
+// lowlighter/metrics hits this same gap and works around it with exactly this
+// search query (source/plugins/base/index.mjs) — GitHub's search-by-username
+// resolves across the account's whole identity history, renames included.
+async function fetchTotalCommits(login) {
   const res = await fetch(
-    `https://api.github.com/search/commits?q=${encodeURIComponent(`author-email:${email}`)}`,
+    `https://api.github.com/search/commits?q=${encodeURIComponent(`author:${login}`)}`,
     { headers: REST_HEADERS },
   );
   if (!res.ok) throw new Error(`GET /search/commits failed: ${res.status}`);
@@ -240,8 +216,7 @@ const profile = await fetchProfile();
 const { totalRepos, stars } = await fetchRepoStats();
 const days = await fetchContributionDays();
 const streak = currentStreak(days);
-const totalCommits =
-  (await fetchTotalCommits(profile.created_at)) + (await fetchOldIdentityCommitCount(OLD_IDENTITY_EMAIL));
+const totalCommits = await fetchTotalCommits(profile.login);
 
 const rows = [
   { icon: "🔥", label: "Streak", value: `${streak} day${streak === 1 ? "" : "s"}` },
