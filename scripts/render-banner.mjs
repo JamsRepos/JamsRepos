@@ -89,6 +89,20 @@ async function fetchRepoStats() {
   return { totalRepos, stars };
 }
 
+// Repos *you've* starred (distinct from "Stars" = stars received on your own
+// repos). Cheap to get the count without paging through all of them: GitHub
+// reports the final page number in the Link header's "last" rel.
+async function fetchStarredCount() {
+  const res = await fetch("https://api.github.com/user/starred?per_page=1", {
+    headers: REST_HEADERS,
+  });
+  if (!res.ok) throw new Error(`GET /user/starred failed: ${res.status}`);
+  const links = parseLinkHeader(res.headers.get("link"));
+  if (links.last) return Number(new URL(links.last).searchParams.get("page"));
+  const repos = await res.json();
+  return repos.length;
+}
+
 // --- Streak + total commits, from the viewer's contribution history --------
 
 async function graphql(query, variables) {
@@ -214,6 +228,7 @@ function renderBanner({ rows, theme }) {
 const languages = loadTopLanguages("languages.json", 3);
 const profile = await fetchProfile();
 const { totalRepos, stars } = await fetchRepoStats();
+const starred = await fetchStarredCount();
 const days = await fetchContributionDays();
 const streak = currentStreak(days);
 const totalCommits = await fetchTotalCommits(profile.login);
@@ -227,6 +242,7 @@ const rows = [
   },
   { icon: "📦", label: "Repos", value: formatNumber(totalRepos) },
   { icon: "⭐", label: "Stars", value: formatNumber(stars) },
+  { icon: "🔖", label: "Starred repos", value: formatNumber(starred) },
   { icon: "👥", label: "Followers", value: formatNumber(profile.followers) },
   { icon: "📅", label: "On GitHub since", value: formatAccountAge(profile.created_at) },
   { icon: "🔁", label: "Total commits", value: formatNumber(totalCommits) },
