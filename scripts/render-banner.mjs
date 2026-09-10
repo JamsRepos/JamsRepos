@@ -33,31 +33,17 @@ const REST_HEADERS = {
 };
 
 // --- Top languages, from the lowlighter/metrics JSON output ----------------
-
-function findLanguages(node, depth = 0) {
-  if (!node || typeof node !== "object" || depth > 6) return null;
-  const entries = Object.entries(node);
-  const looksLikeLanguages =
-    entries.length > 0 &&
-    entries.every(([, v]) => v && typeof v === "object" && "color" in v);
-  if (looksLikeLanguages) return node;
-  for (const [, v] of entries) {
-    const found = findLanguages(v, depth + 1);
-    if (found) return found;
-  }
-  return null;
-}
+//
+// Verified shape (config_output: json), confirmed against a real run:
+//   { plugins: { languages: { favorites: [{ name, color, size, value }, ...] } } }
+// `favorites` is already sorted and already limited to plugin_languages_limit.
 
 function loadTopLanguages(path, limit = 3) {
   const raw = JSON.parse(readFileSync(path, "utf8"));
-  const languages = findLanguages(raw);
-  if (!languages) return [];
-  return Object.entries(languages)
-    .map(([name, v]) => ({
-      name,
-      color: v.color || "#8b949e",
-      weight: v.size ?? v.percentage ?? v.count ?? 0,
-    }))
+  const favorites = raw?.plugins?.languages?.favorites;
+  if (!Array.isArray(favorites)) return [];
+  return favorites
+    .map((f) => ({ name: f.name, color: f.color || "#8b949e", weight: f.size ?? 0 }))
     .sort((a, b) => b.weight - a.weight)
     .slice(0, limit);
 }
